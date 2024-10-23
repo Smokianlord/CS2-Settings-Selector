@@ -1,0 +1,20 @@
+"config"
+{
+	"bindings"
+	{
+		"KP_4"		"say ✄ Ɑ͞ ̶͞ ̶͞ ﻝﮞ"
+		"KP_5"		"say ( • )( • )ԅ(≖⌣≖ԅ)"
+		"KP_6"		"say ( ☞ ͡° ͜ʖ ͡° ) ☞ ｄｏｎｔ　ｔａｌｋｉｎｇ　ｐｌｅａｓｅ ( ☞ ͡° ͜ʖ ͡° ) ☞"
+		"KP_7"		"say ( ͡⚆ ͜ʖ ͡⚆) ∩"
+		"KP_8"		"say  Good Luck & Have Fun!; bind KP_9  say_team drop me a weapon "
+		"8"		"<unbound>"
+		"z"		"slot8"
+		"0"		"<unbound>"
+		"c"		"slot10"
+		"t"		"+voicerecord"
+		"v"		"+spray_menu"
+		"MOUSE4"		"<unbound>"
+		"ENTER"		"clutch_mode_toggle"
+		"KP_9"		"say_team drop me a weapon"
+	}
+}

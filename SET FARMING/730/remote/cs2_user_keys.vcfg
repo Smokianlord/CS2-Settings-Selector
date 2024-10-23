@@ -1,0 +1,14 @@
+"config"
+{
+	"bindings"
+	{
+		"t"		"+voicerecord"
+		"MOUSE4"		"<unbound>"
+		"v"		"+spray_menu"
+		"0"		"<unbound>"
+		"z"		"buy ak47"
+		"8"		"<unbound>"
+		"c"		"slot10"
+		"h"		"clutch_mode_toggle"
+	}
+}

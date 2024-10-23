@@ -1,0 +1,1 @@
+-novid -high -console +fps_max 0
