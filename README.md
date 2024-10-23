@@ -1,2 +1,5 @@
-# CS2-Settings-Selector
-"CS2 Settings Selector" is a Windows batch file designed to simplify the management of multiple IDs for Counter-Strike 2 (CS2). This versatile tool allows users to quickly switch between various configurations and settings tailored to each ID, including graphics, audio, and control preferences.
+# Windows Batch File Instructions
+
+- You might need to change the folder destinations in the batch file, as they can be different for each user.
+- Double-check the paths to make sure they match your system.
+- Running some of these batch files may require administrative privileges.
