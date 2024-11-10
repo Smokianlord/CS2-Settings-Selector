@@ -1,0 +1,461 @@
+"UserLocalConfigStore"
+{
+	"Broadcast"
+	{
+		"Permissions"		"0"
+		"FirstTimeComplete"		"1"
+	}
+	"Software"
+	{
+		"valve"
+		{
+			"Steam"
+			{
+				"apps"
+				{
+					"7"
+					{
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
+					}
+					"730"
+					{
+						"LastPlayed"		"1726322831"
+						"Playtime2wks"		"166"
+						"Playtime"		"3005"
+						"cloud"
+						{
+							"last_sync_state"		"conflictingchanges"
+						}
+						"LaunchOptions"		"-window -w 384 -h 288 +fps_max 30 -nosound -nojoy +r_drawparticles 0 +mat_disable_fancy_blending 1 -nohltv -forcenovsync +violence_hblood 0 +r_dynamic 0 -novid"
+						"autocloud"
+						{
+							"lastlaunch"		"1726322790"
+							"lastexit"		"1726322831"
+						}
+						"BadgeData"		"020000000802"
+						"DisableUpdatesUntil"		"0"
+					}
+					"760"
+					{
+						"cloud"
+						{
+							"quota_bytes"		"20000000000"
+							"quota_files"		"50000"
+							"used_bytes"		"0"
+							"used_files"		"0"
+						}
+					}
+					"2371090"
+					{
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
+					}
+					"534380"
+					{
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
+					}
+					"440"
+					{
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
+					}
+					"1623730"
+					{
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
+					}
+					"1229490"
+					{
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
+					}
+					"4000"
+					{
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
+					}
+					"206420"
+					{
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
+					}
+					"232090"
+					{
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
+					}
+					"601050"
+					{
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
+					}
+					"739630"
+					{
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
+					}
+					"550"
+					{
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
+					}
+					"55230"
+					{
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
+					}
+					"241100"
+					{
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
+						"autocloud"
+						{
+							"lastlaunch"		"1726322791"
+							"lastexit"		"1726322831"
+						}
+					}
+				}
+				"LastPlayedTimesSyncTime"		"1726322367"
+				"PlayerLevel"		"2"
+			}
+		}
+	}
+	"streaming_v2"
+	{
+		"EnableStreaming"		"0"
+		"DefaultAudioDevice"		"{0.0.0.00000000}.{9fceb475-69b5-400e-b99a-f03528daf5dc}"
+		"DefaultAudioDeviceName"		"Speakers (HyperX Cloud Alpha S Game)"
+		"DefaultMicrophone"		"{0.0.1.00000000}.{b44d722d-9926-4f8b-8d6a-89274cf3656f}"
+		"DefaultMicrophoneName"		"Microphone (HyperX Cloud Alpha S Chat)"
+		"P2PScopeV2"		"1"
+		"ClientConfig"		"980101"
+	}
+	"friends"
+	{
+		"1250839534"
+		{
+			"NameHistory"
+			{
+				"0"		"Sage"
+			}
+			"avatar"		"fb3f1340914e27205c280024e300d68ef2a9a400"
+		}
+		"PersonaName"		"Ektu Chuse Dekh"
+		"communitypreferences"		"18002000280130013800"
+		"contentdescriptorpreferences"		"0a0208010a0208030a020804"
+		"1250880903"
+		{
+			"name"		"Astra"
+			"NameHistory"
+			{
+				"0"		"Astra"
+			}
+			"avatar"		"c65160ade63c60373b0980d9195875b1ed38096b"
+		}
+		"1250639972"
+		{
+			"name"		"Jett"
+			"NameHistory"
+			{
+				"0"		"Jett"
+			}
+			"avatar"		"da8e045728a744944c66163011a603000d717394"
+		}
+		"Notifications_ShowIngame"		"1"
+		"Notifications_ShowOnline"		"0"
+		"Notifications_ShowMessage"		"1"
+		"Notifications_EventsAndAnnouncements"		"1"
+		"Sounds_PlayIngame"		"0"
+		"Sounds_PlayOnline"		"0"
+		"Sounds_PlayMessage"		"1"
+		"Sounds_EventsAndAnnouncements"		"0"
+		"ChatFlashMode"		"2"
+		"DoNotDisturb"		"1"
+		"SignIntoFriends"		"1"
+		"1251125222"
+		{
+			"NameHistory"
+			{
+				"0"		"Omen"
+			}
+			"avatar"		"d8817e2e9954c837ac8b3000e72cd289fbc58544"
+			"name"		"Omen"
+		}
+		"292891650"
+		{
+			"name"		"Smokianlord"
+			"NameHistory"
+			{
+				"0"		"Smokianlord"
+			}
+			"avatar"		"ed0720c81d74af99b6e7ec81e47f531f01775b99"
+		}
+		"1215926338"
+		{
+			"NameHistory"
+			{
+				"0"		"Ektu Chuse Dekh"
+			}
+			"avatar"		"767c1f108f7861318020840961b3585b30b0d2d5"
+		}
+		"1512903440"
+		{
+			"name"		"Figman Wigglebrain"
+			"NameHistory"
+			{
+				"0"		"Figman Wigglebrain"
+			}
+			"avatar"		"d4f1d93caa986f5f18c5ccf4f26e9b028c6b4365"
+		}
+		"1194822567"
+		{
+			"name"		"SmokianPredator"
+			"NameHistory"
+			{
+				"0"		"SmokianPredator"
+			}
+			"avatar"		"7c9e457eb54ff820c4c7646aab9d7c5a1cc1f2a7"
+		}
+		"1728202166"
+		{
+			"name"		"tushar vai"
+			"NameHistory"
+			{
+				"0"		"tushar vai"
+			}
+			"avatar"		"7066227a96f220882ca2edf20ad0acc782b6d3f8"
+		}
+		"1674611942"
+		{
+			"name"		"mitsinohara144"
+			"NameHistory"
+			{
+				"0"		"mitsinohara144"
+			}
+			"avatar"		"987af8418874c5d87a2600c486228094639c55e3"
+		}
+		"1024391347"
+		{
+			"name"		"Poopy butthole"
+			"NameHistory"
+			{
+				"0"		"Poopy butthole"
+			}
+			"avatar"		"55553f7b95fb628e5905f2f8e391b995a4be4264"
+		}
+		"1691616383"
+		{
+			"name"		"lodubeerus"
+			"NameHistory"
+			{
+				"0"		"lodubeerus"
+			}
+			"avatar"		"e1dcc8270607cb06757d4501fb2d95328568e8c8"
+		}
+		"1675202566"
+		{
+			"name"		"shinchanohara365"
+			"NameHistory"
+			{
+				"0"		"shinchanohara365"
+			}
+			"avatar"		"841302962923b930d87eafe9506d211f3f9dc4a8"
+		}
+		"1619614148"
+		{
+			"name"		"gokuson"
+			"NameHistory"
+			{
+				"0"		"gokuson"
+			}
+			"avatar"		"d1621bd4000054edf2dcca3a1f4f2d0a06eaae8b"
+		}
+		"374772976"
+		{
+			"name"		"putkey down"
+			"NameHistory"
+			{
+				"0"		"putkey down"
+			}
+			"avatar"		"4650d26fe50383740b3d6508e5bcabc7ff304945"
+		}
+		"1674316752"
+		{
+			"name"		"hiroshinohara6969"
+			"NameHistory"
+			{
+				"0"		"hiroshinohara6969"
+			}
+			"avatar"		"d6e2690f18f09756b49e566ef9ebbb0454f79e6e"
+		}
+	}
+	"ParentalSettings"
+	{
+		"settings"		"0942907948000000004800"
+		"Signature"		"2b26d5fc98d40d708780125d974a23582b646b4db9d7072f3ca54c9caa6948fea2b9983b3208378cd6c5910ff48bb354bec035f708e69f6be6d7f5b0de3f3c19a961eb3d5c67bc23b673af2a2a0ff7761c401cfe1d3b285e99a951cd90acfc1464a0c37225ea3407f8ba0f60440c0c57d5c6d61ce46379e71643faa6f3189c715b26530de1df0ebe90adcda292f429eda6cb28f1bde2a20876bacc2db38ee011922d0f049d75a337b6e079683309d3e5df4db33e23cfc91799bcf12cc686758c86513b403cbe7849554e09fc7c4d814540bf0a9092bf31a43334145f47c07fcd726c685505e4f088d211af34c9dfbfc474edd8168e8a62d3de04c5e0fd3dc34e"
+	}
+	"SharedAuth"
+	{
+		"id"		"1103351896"
+		"AuthData"		"511216124a3f6f95c0126bfd93d1d6a4ddbaa102353804c5d53b37e55002a424"
+	}
+	"Offline"
+	{
+		"Ticket"		"08c2a0e6c304154297e566"
+		"Signature"		"348de162f25bf85f2b75956b05a171932d90bcc2c514363481102435eb0f5647a4feeb0897e78a90f5f07bcc9307eca7d1fd8d9531a8de62e4650cbade58a54bad88c5f5af25991367bc0dfbb1ef42a245aca3f3f765a6b3b9e456ac24c6a988e1782844b30c69a374bfb123d293530b4fb2f2868f8664c3ba8b2bde53ab98485e435990be10077ef14f74699a4da530b3ca80b8fa0c1fc5fa4f6e763da516f5eb02a53e0241a51164497a1a1672aeba2c4bb0395e063f3cf463c7c7fd5844a368d3689dcce83097e2e7fd4616c9eafdefda19aadffa8cfe9fa11aa0a5f63ed7792fbaf816dffea7c365367fe7a0c7f8a5565eca7f3ef7f81f71ce3b723e24ae"
+		"EncryptedTicket"		"0a20443ed5621f28ba090bf3345f6ad051cf6c5d945d94c56f0bf9d09300a53c9967128002348de162f25bf85f2b75956b05a171932d90bcc2c514363481102435eb0f5647a4feeb0897e78a90f5f07bcc9307eca7d1fd8d9531a8de62e4650cbade58a54bad88c5f5af25991367bc0dfbb1ef42a245aca3f3f765a6b3b9e456ac24c6a988e1782844b30c69a374bfb123d293530b4fb2f2868f8664c3ba8b2bde53ab98485e435990be10077ef14f74699a4da530b3ca80b8fa0c1fc5fa4f6e763da516f5eb02a53e0241a51164497a1a1672aeba2c4bb0395e063f3cf463c7c7fd5844a368d3689dcce83097e2e7fd4616c9eafdefda19aadffa8cfe9fa11aa0a5f63ed7792fbaf816dffea7c365367fe7a0c7f8a5565eca7f3ef7f81f71ce3b723e24ae1806220855d4998fe20e3a1728043208c225fc168269a366"
+		"EncryptedSignature"		"348de162f25bf85f2b75956b05a171932d90bcc2c514363481102435eb0f5647a4feeb0897e78a90f5f07bcc9307eca7d1fd8d9531a8de62e4650cbade58a54bad88c5f5af25991367bc0dfbb1ef42a245aca3f3f765a6b3b9e456ac24c6a988e1782844b30c69a374bfb123d293530b4fb2f2868f8664c3ba8b2bde53ab98485e435990be10077ef14f74699a4da530b3ca80b8fa0c1fc5fa4f6e763da516f5eb02a53e0241a51164497a1a1672aeba2c4bb0395e063f3cf463c7c7fd5844a368d3689dcce83097e2e7fd4616c9eafdefda19aadffa8cfe9fa11aa0a5f63ed7792fbaf816dffea7c365367fe7a0c7f8a5565eca7f3ef7f81f71ce3b723e24ae"
+	}
+	"apptickets"
+	{
+		"7"		"320000000400000042907948010010010700000075fd8cc09500a8c0000000004197e566c1460167010000000000000000003eb01167accaba18fccdd37a263db762cf2506cf5eaa43e65e0d12d5917f766fd0ab3a21e7ad973cdf8077f1c8abc266ef67ef250073879d70343813dce9a01471aaaa5f83ca47f350879ac2a6e3daefaa99c560a3abc46fd56fa83186757f010de5afb3062b25a57043656339c7bec69e9a46ffe64368229c28417ea4e370be"
+		"440"		"3200000004000000e6a7924a01001001b801000075fd8cc09500a8c0000000001a1260669ac17b66010000000000000000005128566860f828b37b9de65817f127a8539bd40aade516b2293794ba8c099d6f0df0292559894b38f4dfc57ffa9f6e3b72461ed7a610eb829e7978e24b3e90ffc918bdae87483bc99c90438d82fc1e17d92f42188586c3297b705bbec67c67eae5d300ee6c31201500d094772f5a1f7cf7b897199cd26c01d44b7404dc90acfe"
+		"730"		"44000000040000004290794801001001da02000075fd8cc09500a8c0000000004297e566c246016701000dd300000300b4880900000028c92200000029c922000000000024176c8416246899c2bd10ac22a721b92bde282b9ba395964eb5e92c21e5bdf8af482ff97670d82d71d245d55da8333163fd2e2a81444779cd4293796d8f7eb884666c1d49e5f70e2fe28cb4b9058270d83cda921babbf81c2f0317b0b97d55f38b96ebb97ea7c5df3d21aad54413e093ade518eef8b95335022f5a4b3591fc2"
+		"2279720"		"3200000004000000429079480100100128c9220075fd8cc09500a8c0000000004297e566c246016701000dd300000000000074006c64879f3e9176f913e31a1b0317fbfb6dac2a9fb0f2b7dfad8389bfdc533f95576fe92dde6e27f1b4c8b273b091649dbced90103429676b638c40a1656ad9b5fc687c291d1f5c6438bf0e3544fa8a02dc0348a0506efff9df512215c7d493d8e620ce6b0d2def22a38d6882aac427325f793bd05fbf3b58d1bf8a59007c"
+		"2279721"		"3200000004000000429079480100100129c9220075fd8cc09500a8c0000000004297e566c246016701000dd3000000000000b98a84079c0ba2aa1a480a7da4eaa63715a21f2b082e33f8c95e72ae06dce00eaa905e637372a221be211203640c01801edfd55b52fdd275305f4fc541a2f47a26b2134ce62e55427f28aa41df93687119def5df6d4c11c2eba0ffb338c24582d7fb29eefb40a491580ee9bbe539d628e83f67ec7c884ccea9784c845eb1dbe1"
+		"228980"		"32000000040000004290794801001001747e030075fd8cc09500a8c0000000004297e566c2460167010000000000000000007500a84478e99d779319bdb7c4c89b191bb3f88a0a4286b0ff9d31a3b3ada5fa3bd5eaaabd936f23ea672f82b290eeffa708d94dc33961ccdc83b428dcfa2afaf755b3856c4cc54652ce94491348076bfcab7c7a6bcec57a51fb72be29f6f012e9cf0f2f9906e6a985a9a82240c58ed1693c4df1ce25c30682b6150e1b17a156"
+	}
+	"CloudManager"
+	{
+		"HintAppsToPreload"		"241100"
+	}
+	"WebStorage"
+	{
+		"UIStoreLocalSteamUIState"		"{\"nVersion\":1,\"eGameListView\":1,\"collectionFilter\":{\"nFormatVersion\":2,\"strSearchText\":\"\",\"filterGroups\":[{\"rgOptions\":[1],\"bAcceptUnion\":true},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false}],\"setSuggestions\":{}},\"collectionFilterGamepad\":{\"nFormatVersion\":2,\"strSearchText\":\"\",\"filterGroups\":[{\"rgOptions\":[1,2,8192],\"bAcceptUnion\":true},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false}],\"setSuggestions\":{}},\"bGroupedByCollection\":true,\"bSortedByRecent\":false,\"mapCollapsedState\":[[\"hidden\",true]],\"currentSelection\":{\"strCollectionId\":\"favorite\",\"nAppId\":730},\"bGroupBySharedLibraries\":false}"
+		"keyboard_haptic_preset"		"2"
+		"keyboard_haptic_custom"		"{\"eHapticType\":2,\"unIntensity\":4,\"ndBGain\":-5}"
+		"keyboard_trackpad_typing_scale"		"1"
+		"keyboard_trackpding_typing_trigger_as_click"		"true"
+		"keyboard_layout"		"{\"currentLayout\":0,\"selectedLayouts\":[0]}"
+		"keyboard_initial_location_desktop"		"\"center-bottom\""
+		"keyboard_initial_location_overlay"		"\"center-bottom\""
+		"SteamVoiceSettings_1250839534"		"{\"inputGain\":1,\"outputGain\":1,\"noiseGateLevel\":2,\"noiseCancellation\":true,\"echoCancellation\":true,\"autoGainControl\":true,\"selectedMic\":\"default\",\"selectedOutput\":\"default\",\"pttSoundsEnabled\":true,\"hasResetOpenMicHotKey\":true}"
+		"CachedStorePreferences"		"{\"eReviewScorePreference\":0,\"content_descriptor_preferences\":{\"content_descriptors_to_exclude\":[{\"content_descriptorid\":3,\"timestamp_added\":0},{\"content_descriptorid\":4,\"timestamp_added\":0}]},\"provide_deck_feedback\":0}"
+		"CachedCommunityPreferences"		"{\"bParenthesizeNicknames\":false,\"eTextFilterSetting\":1,\"bTextFilterIgnoreFriends\":true,\"content_descriptor_preferences\":{\"content_descriptors_to_exclude\":[{\"content_descriptorid\":1},{\"content_descriptorid\":3},{\"content_descriptorid\":4}]}}"
+		"CachedNotificationPreferences"		"[{\"notification_type\":2,\"notification_targets\":11},{\"notification_type\":3,\"notification_targets\":1},{\"notification_type\":4,\"notification_targets\":1},{\"notification_type\":5,\"notification_targets\":11},{\"notification_type\":6,\"notification_targets\":11},{\"notification_type\":8,\"notification_targets\":3},{\"notification_type\":9,\"notification_targets\":11},{\"notification_type\":11,\"notification_targets\":3},{\"notification_type\":12,\"notification_targets\":11},{\"notification_type\":15,\"notification_targets\":11},{\"notification_type\":16,\"notification_targets\":11},{\"notification_type\":17,\"notification_targets\":11},{\"notification_type\":18,\"notification_targets\":11},{\"notification_type\":19,\"notification_targets\":11},{\"notification_type\":20,\"notification_targets\":11},{\"notification_type\":21,\"notification_targets\":11},{\"notification_type\":22,\"notification_targets\":11}]"
+		"CTextFilterStore_TextFilterPreferences"		"{\"bIgnoreFriends\":true,\"eTextFilterSetting\":1}"
+		"CTextFilterStore_TextFilterWords"		"KDEpeyJ0ZXh0X2ZpbHRlcl9jdXN0b21fYmFubmVkX3dvcmRzIjpbXSwidGV4dF9maWx0ZXJfY3VzdG9tX2NsZWFuX3dvcmRzIjpbXX0="
+		"playnextstore_storage"		"{\"nVersion\":3,\"cachedPlayNext\":{\"last_update_time\":1726248398,\"appids\":[]},\"rgIgnoredApps\":[]}"
+		"trendingstore_storage"		"{\"version\":2,\"data\":[{\"appid\":730,\"rgAccountIDs\":[292891650,374772976,1512903440,1024391347,1691616383,1675202566,1194822567,1674316752],\"totalFriends\":11},{\"appid\":2641470,\"rgAccountIDs\":[292891650],\"totalFriends\":1},{\"appid\":646910,\"rgAccountIDs\":[292891650],\"totalFriends\":1},{\"appid\":1422450,\"rgAccountIDs\":[292891650],\"totalFriends\":1},{\"appid\":550,\"rgAccountIDs\":[292891650],\"totalFriends\":1}],\"lastFetchTimeMS\":1726322500756}"
+		"CTextFilterStore_strBannedPattern"		"KDEpXGIo77u/KGFwZXxiYXR8YnVsbD98YnV0dHxkaXB8ZG9nfGR1bWJ8ZWJvfGhvbHl8aG9yc2V8amFja3xwZWRvfHBpZ3x1YmkpXFcqc2goaXR8dGkpcz98ZFtpbF0rKGNrfGtjKVxXKihhc3N8YmFnfGJyZWF0aHxlYXR8ZmFjZXxmbGlwfGhlYWR8aG9sZXxsZXNzfHN1Y2t8d2VlZClcdyp8ZltjaGpdPyhhfGF1fGF3fGV8byt8dXx1eSlbY2hdKmsoZT9kfGU/cnM/fFtlaV0/bitnP3x0KXxtW2FvdV0oZCt8dCt8dGh8aHR8eikoYXxlfGVyfGlyfHVyKShjfGYpYz9bYW91XWM/a1x3KnxtW291XXRoKGF8ZXIpKGZ8cGgpW3Z1ZV0rYz9bZ2txeF0rKGU/ZHxlP3J8W2VpXT9uK2c/KXxcdypmW3Z1XStoKmMrW2hqdmtdKihlP2R8ZT9yfFtlaV0/bitnP3x0KXxiK2krYSp0K2MraCsoZStkfGUqcj9bc3pdK3xbZWldP24rZz98eSl8XHcqZlt2dV0rYz9beGtxXSsoZT9kfGU/cnxbZWldP24rZz98dCl8cChvbyt8dSspcysoYSt5K3xlK3xlaHxleXxpK3xpZXx5KylzKnxtW291XXRoKGF8ZXIpKGZ8cGgpW3Z1ZV0rYz9bZ2txeF0rfFx3KmZbdnVdK2gqcShlP2R8ZT9yfFtlaV0/bitnP3x0KXxmW2Noal0/KGF8YXV8YXd8ZXxvK3x1fHV5KVtjaF0qa3xmW2NrXSsoZT9kfGU/cnxbZWldP24rZz98dCl8ZnXzoICh86CAoWNrafOggKHzoIChbmd8ZHVtYihmfHBoKVt2dV0rYz9beGtxXXxjKG9jP3xhdylrXFcqc3VjP2tcdyp8ZFtpbF0rKGNrfGtjKShlZHxpbmcpfHBoW3Z1XStoKmMrW2hqdmtdKlx3Knxzb25cVypvZlxXKmFcVypiaXRjaHzQtNC+0LvQsdC+0LXQsdC40LfQvHxcdyp3aG8rcmUoZWR8aW5nfHMpfGMob3xhaHxhdyljP2soc3xlZCl8cytoK1tpbHldK3QrW2Vyc3ldKnxhK3NzK1xXKnc/aG9sZT9cdyp8cGhbdnVdK2M/W3hrcV0rXHcqfNCz0L7QstC90L7QtdC00L7QsnzQtNC+0LvQsdCw0LXQsdC+0LJ80LXQsdC70LDQvdGB0LrQsNGPfNC10LHQu9Cw0L3RgdC60LjQuXzQt9Cw0LXQsdGR0YjRjNGB0Y980LfQsNGF0YPRj9GH0LjQu9C4fNC/0LjQtNCw0YDQsNGB0L7QsnzQv9C40LTQsNGA0YHQutC40Ll80YHRitC10LHQsNGC0YzRgdGPfNGD0LXQsdCw0L3RgdC60LjQuXzRg9C10LHQuNGJ0YzQvdC+0LV8Zlt2dV0rYz9beGtxXStcdyp8YnVsbCtzaCtbaWx5XSt0K3xnb2RcVypkYW1uP1xXKml0fNCw0YXRg9C10L3QvdCw0Y980LDRhdGD0LXQvdC90YPRjnzQsNGF0YPQtdC90L3Ri9C5fNCy0YvQtdCx0LDQvdC+0LV80LXQsdCw0L3QvdC+0LzRg3zQtdCx0LDQvdGD0YLRi9C1fNC10LHQu9Cw0L3QsNC80Lh80L/QuNC00LDRgNCw0YHRi3zRg9GR0LHQuNGJ0L3QsNGPfNGD0ZHQsdC40YnQvdGL0Ll8Z29kXFcqZGFtbj9cdyp80LLRitC10LHQsNC70Lh80LLRitC10LHQsNGC0Yx80LXQsdCw0L3QvdCw0Y980LXQsdCw0L3QvdC+0LV80LXQsdCw0L3QvdGL0YV80LXQsdCw0L3QvtCz0L580LXQsdCw0L3RjNC60Lh80LXQsdC+0L3QvdC+0LV80LfQsNC10LHQsNC70LB80LfQsNC10LHQsNC70L580L/QvtC10LHQtdC90Yx80YXRg9GR0LLQvtCz0L58YStzcytcVypmdVx3KnxjKG98YWh8YXcpYz9rfGRbaWxdKyhja3xrYyl8YitpK2EqdCtjK2grfGJ1dHRcVypmdVx3KnxjdW1tKGVyfGluZyl8Zlt2dV0raCpjXHcqfGZbdnVdK2gqcVx3KnxzaCtpK1thZV0rdCt80LDRhdGD0LXQu9C4fNC10LHQsNC90LDRj3zQtdCx0LDQvdC+0LV80LXQsdCw0L3QvtC5fNC10LHQsNC90YPRjnzQtdCx0LDQvdGL0LV80LXQsdCw0L3Ri9C5fNC10LHQsNC90YvQvHzQtdCx0LDQvdGL0YV80LXQsdGD0YfQuNC5fNC/0LjQt9C00LXQtnzQv9C40LfQtNC10YZ80YHRgNCw0L3QsNGPfNGD0ZHQsdC40YnQsHzRg9GR0LHQuNGJ0LV80YXRg9C10YHQvtGBfNGF0YPQtdGC0L7QuXzRhdGD0LnQvdGR0Ll80YXRg9GR0LLQsNGPfNGF0YPRkdCy0YvQuXzkvaDlpojmrbvkuoZ85aaI55qE5Liq6YC8fOaIkeaYr+WCu+mAvHxjK3Urbit0K1x3KnxkK2krYytrK3MqfGZ14oCOY2tpbmd80LHQu9GP0LTRjHzQsdC70Y/RgtGMfNC00L7RhdGD0Y980LTRgNC+0YfQuHzQtdCx0LDQu9C+fNC10LHQsNGC0Yx80L000LXQsTTQu3zQvdCw0YXRg9C5fNC90LDRhdGD0Y980L3QtdGF0YPQuXzQvdC40YXRg9GPfNC/0LjQt9C00LV80L/QuNC30LTRg3zQv9C+0YXRg9C5fNGD0LXQsdGR0YJ80YXRg9C10YLQsHzRhdGD0LXRgtGDfNGF0YPQudC90Lh80YXRg9C50L3RjnzRhdGD0LnQvdGPfNGI0LvRjtGF0Lh80ZHQsdCw0L3Ri3xhK3Nob2xlcz98c2grZStpK3QrfOaTjeS9oOWmiHzmk43kvaDlprl86IKP5L2g5aaIfNCw0YXRg9C1fNC10LHQsNC7fNC10LHRg9GCfNGB0YPQutCwfNGF0YPRj9C8fNGI0LvRjtGFfEZcLlVcLkNcLkt8Y2hvZGVzP3xjdW1zaG90fGZ1Y2tpbmd8ZnXigI5ja3xzaGl0XHcqfHNodHBvc3R8d2hvK3JlP3xjdW1iYWd8amViYW5lfHR3YXRzP3zQsdC70Y980LXQsdGDfNGF0YPQuHzRhdGD0Ll80YXRg9GPfOWCu+WxhHzlgrvpgLx85pON5q27fOiHremAvHxjdW1zP3xkYWZ1cXxkadGBa3xzaCBpdHxjb3ErfGhvcmV8a29ja3xubXNsfHNoYXR8ZGlrfGZja3xreXN8XHcqZit1K2Mraytcdyp8XHcqZtGG0YHQulx3KnxcdypzaNGWdHR5XHcqfFx3KmZfdWNfa1x3KnxcdypwdXNzeVx3Knzvu79uKyhbZWhpeV0rfGF5fGV5fGlvfFtpbF0rKVtiZ3EkXStoPyhhK3xhZXJ8YStoK3xhK3IrfGUrfGVhfGVvYXxlK3IrfGllfGllcnxsZXR8bGl0fG98b3J8cit8dXx1aHx1aHJ8dStyK3x3YXJkfHkrKXMqfGZbYWVdeT9nK1tvZWl1XSt0K3M/fNC00LDRg9C90YHQutCw0Y980L/QuNC00L7RgNCw0YHRi3xjaGluZ1xXKmNob25ncz98bvOggKHzoIChaWdnZXJzfHJlK3QrYT9yW2R0XStzP3x0b3dlbFxXKmhlYWRzP3zQvNC+0YHQutCw0LvRjHzQv9C40LTQvtGA0LrQsHxwYWM/ayhpfGllfHkpfHRpbmdcVyp0b25ncz98dHJhbm4oaWV8eSlzP3x3aGl0ZVxXKnRyYXNofG5pOmdnXHcqOlx3KnxjaGluKGN8aylzP3xrYWx0YWtsYXJsYXxrYWx0YWtsYXJsYXxuK2krW2dxXStzP3x5YW1cVyp5YW1zP3xcdypuaWdnYXM/fGNoaW5hbWFucz98cG9sYWNrZT9zP3x0cmFubnljb3JlfNC60LDRhtCw0L980YDRg9GB0L3Rj3zRhdC+0YXQu9GLfNGF0L7RhdC+0Lt8bmVla2VyaXM/fG5pZ2ZoZXJzP3xyZWRza2lucz98YmVhbmVycz98Y29vbGllcz98Y3phcm51Y2h8ZithK2crcyp8ZmVuaWFucz98Z3Jpbmdvcz98bmV3ZmFncz98bmkgZ2cgZXJ8bmlnZ2Fcdyp8bmlnZ2xlcz98bmlnbm9ncz98cnVzK2tpcz98d2lnZ2Vycz98z5xhZ2fQvnR8Z3lwc2llc3xpbmp1bnM/fGppZ2dhcz98bmlra2FzP3x3aWdnYXM/fNC4aWdnZXJ8XHcqZmFnfGJlYW5lcnxjb29ucz98ZHlrZXM/fGZhNjZvdHxmYWd0cz98Z29va3M/fGd5cG9zP3xob21vcz98a2lrZXM/fGtva2hvbHxtb3NrYWx8cmVnZ2lufHNwaWNzP3x5d25iYXd86buR6ay8fGFib3M/fGZndHM/fGbQsGdzfGd5cHN5fGphcHM/fHRyb29ufHdvcHM/fGZhZ3p8ZtCwZ3xmQGd8XHcqTvOggKHzoIChSUdHRfOggKHzoIChUlx3KnxcdyrRgdCy0LjQvdC+0YHQvtCx0LDQulx3KnxcdyrJtMmqyaLJouG0h8qAXHcqfFx3Km7Rlmdn0LVyXHcqfFx3Kk7DjUdHRVJcdyp8XHcqblxcXHxnZ2VyXHcqfFx3Km5pZ2fQtXJcdyp8XHcqRjRHRzBUXHcqfFx3Kk4xR0czUlx3KnxcdypuaWdnZXJcdyp8XHcqdHJhbm55XHcqfFx3Km5pZ2c0XHcqfFx3Km5pZ2d6XHcqKVxi"
+		"CTextFilterStore_strCleanPattern"		"KDEpXihcYihmYWsoZWR8ZXJzP3xpbmcpfGtvbXBldGVuenRlYW185rS+6YCB5ZGYfHBpbmVncm92ZXxuXC5lXC5pZ1wuZVwufGZ1a3VzaGltYXxzbmlnZ2VyfG5pZSBnZWV8ZnVrdW9rYXxmdWNoc2lhfGZ1Y2hpYW58Y29ja1wubGl8ZnV4aXVzfGZ1Y3Vyb3xuaWVnb3xuaWVib3xuZWlnZXxuZWdneXxuZWJieXxmdXhpc3xjd2ZhZ3xwdWJnfG5pYnl8bmVidXxuZWJvfGZ1a3V8ZnVraXxmYWt0fGcyNHxmY3J8XHcqZnZjaHZvXHcqKVxiKSQ="
+		"FriendGroupCollapse_1250839534"		"{\"groups\":{\"offline\":false,\"outgoing\":true}}"
+		"ChatStorePopupState_1250839534"		"{\"bFriendsListVisible\":false,\"always_restore\":false,\"bFriendsListCollapsed\":false}"
+		"UIDisplayPrefs_1250839534"		"{\"nChatRoomListHeightPx\":224,\"bChatRoomListCollapsed\":true,\"bDontShowVoiceAlert\":false,\"nFriendsListSingleWindowWidthPx\":300,\"bFavoritesHintDismissed\":true,\"bRemotePlayLinkHintDismissed\":false,\"nChangeLogDismissed\":0}"
+		"GetEquippedProfileItemsForUser76561199211105262"		"{\"profile_background\":{\"profile_colors\":[]},\"mini_profile_background\":{\"profile_colors\":[]},\"avatar_frame\":{\"profile_colors\":[]},\"animated_avatar\":{\"profile_colors\":[]},\"profile_modifier\":{\"profile_colors\":[]},\"steam_deck_keyboard_skin\":{\"profile_colors\":[]}}"
+		"SteamVoiceSettings_1251125222"		"{\"inputGain\":1,\"outputGain\":1,\"noiseGateLevel\":0,\"noiseCancellation\":true,\"echoCancellation\":true,\"autoGainControl\":true,\"selectedMic\":\"b29a8c86d43caa25443a8b62948fd6cdde58a0463edd2b355cf0d5ed98d1722a\",\"selectedOutput\":\"609f0bb0af940058c920d89cc7bf4e7fda52b68123c63e4c3db55848337e7fdb\",\"pttSoundsEnabled\":true,\"hasResetOpenMicHotKey\":true}"
+		"FriendGroupCollapse_1251125222"		"{\"groups\":{\"offline\":false,\"outgoing\":true}}"
+		"UIDisplayPrefs_1251125222"		"{\"nChatRoomListHeightPx\":224,\"bChatRoomListCollapsed\":true,\"bDontShowVoiceAlert\":false,\"nFriendsListSingleWindowWidthPx\":300,\"bFavoritesHintDismissed\":true,\"bRemotePlayLinkHintDismissed\":false,\"nChangeLogDismissed\":0}"
+		"ChatStorePopupState_1251125222"		"{\"window_restore_details\":\"1&x=600&y=225&w=740&h=650\",\"bFriendsListVisible\":false,\"always_restore\":false,\"bFriendsListCollapsed\":false}"
+		"GetEquippedProfileItemsForUser76561199211390950"		"{\"profile_background\":{\"profile_colors\":[]},\"mini_profile_background\":{\"profile_colors\":[]},\"avatar_frame\":{\"profile_colors\":[]},\"animated_avatar\":{\"profile_colors\":[]},\"profile_modifier\":{\"profile_colors\":[]},\"steam_deck_keyboard_skin\":{\"profile_colors\":[]}}"
+		"FriendStoreLocalPrefs_1251125222"		"{\"ePersonaState\":1,\"strNonFriendsAllowedToMsg\":\"\"}"
+		"LocalizedTagNames_english"		"{\"version_hash\":\"3413021841\",\"tags\":[{\"tagid\":9,\"name\":\"Strategy\"},{\"tagid\":19,\"name\":\"Action\"},{\"tagid\":21,\"name\":\"Adventure\"},{\"tagid\":84,\"name\":\"Design & Illustration\"},{\"tagid\":87,\"name\":\"Utilities\"},{\"tagid\":113,\"name\":\"Free to Play\"},{\"tagid\":122,\"name\":\"RPG\"},{\"tagid\":128,\"name\":\"Massively Multiplayer\"},{\"tagid\":492,\"name\":\"Indie\"},{\"tagid\":493,\"name\":\"Early Access\"},{\"tagid\":597,\"name\":\"Casual\"},{\"tagid\":599,\"name\":\"Simulation\"},{\"tagid\":699,\"name\":\"Racing\"},{\"tagid\":701,\"name\":\"Sports\"},{\"tagid\":784,\"name\":\"Video Production\"},{\"tagid\":809,\"name\":\"Photo Editing\"},{\"tagid\":872,\"name\":\"Animation & Modeling\"},{\"tagid\":1027,\"name\":\"Audio Production\"},{\"tagid\":1036,\"name\":\"Education\"},{\"tagid\":1038,\"name\":\"Web Publishing\"},{\"tagid\":1445,\"name\":\"Software Training\"},{\"tagid\":1616,\"name\":\"Trains\"},{\"tagid\":1621,\"name\":\"Music\"},{\"tagid\":1625,\"name\":\"Platformer\"},{\"tagid\":1628,\"name\":\"Metroidvania\"},{\"tagid\":1638,\"name\":\"Dog\"},{\"tagid\":1643,\"name\":\"Building\"},{\"tagid\":1644,\"name\":\"Driving\"},{\"tagid\":1645,\"name\":\"Tower Defense\"},{\"tagid\":1646,\"name\":\"Hack and Slash\"},{\"tagid\":1647,\"name\":\"Western\"},{\"tagid\":1649,\"name\":\"GameMaker\"},{\"tagid\":1651,\"name\":\"Satire\"},{\"tagid\":1654,\"name\":\"Relaxing\"},{\"tagid\":1659,\"name\":\"Zombies\"},{\"tagid\":1662,\"name\":\"Survival\"},{\"tagid\":1663,\"name\":\"FPS\"},{\"tagid\":1664,\"name\":\"Puzzle\"},{\"tagid\":1665,\"name\":\"Match 3\"},{\"tagid\":1666,\"name\":\"Card Game\"},{\"tagid\":1667,\"name\":\"Horror\"},{\"tagid\":1669,\"name\":\"Moddable\"},{\"tagid\":1670,\"name\":\"4X\"},{\"tagid\":1671,\"name\":\"Superhero\"},{\"tagid\":1673,\"name\":\"Aliens\"},{\"tagid\":1674,\"name\":\"Typing\"},{\"tagid\":1676,\"name\":\"RTS\"},{\"tagid\":1677,\"name\":\"Turn-Based\"},{\"tagid\":1678,\"name\":\"War\"},{\"tagid\":1680,\"name\":\"Heist\"},{\"tagid\":1681,\"name\":\"Pirates\"},{\"tagid\":1684,\"name\":\"Fantasy\"},{\"tagid\":1685,\"name\":\"Co-op\"},{\"tagid\":1687,\"name\":\"Stealth\"},{\"tagid\":1688,\"name\":\"Ninja\"},{\"tagid\":1693,\"name\":\"Classic\"},{\"tagid\":1695,\"name\":\"Open World\"},{\"tagid\":1697,\"name\":\"Third Person\"},{\"tagid\":1698,\"name\":\"Point & Click\"},{\"tagid\":1702,\"name\":\"Crafting\"},{\"tagid\":1708,\"name\":\"Tactical\"},{\"tagid\":1710,\"name\":\"Surreal\"},{\"tagid\":1714,\"name\":\"Psychedelic\"},{\"tagid\":1716,\"name\":\"Roguelike\"},{\"tagid\":1717,\"name\":\"Hex Grid\"},{\"tagid\":1718,\"name\":\"MOBA\"},{\"tagid\":1719,\"name\":\"Comedy\"},{\"tagid\":1720,\"name\":\"Dungeon Crawler\"},{\"tagid\":1721,\"name\":\"Psychological Horror\"},{\"tagid\":1723,\"name\":\"Action RTS\"},{\"tagid\":1730,\"name\":\"Sokoban\"},{\"tagid\":1732,\"name\":\"Voxel\"},{\"tagid\":1733,\"name\":\"Unforgiving\"},{\"tagid\":1734,\"name\":\"Fast-Paced\"},{\"tagid\":1736,\"name\":\"LEGO\"},{\"tagid\":1738,\"name\":\"Hidden Object\"},{\"tagid\":1741,\"name\":\"Turn-Based Strategy\"},{\"tagid\":1742,\"name\":\"Story Rich\"},{\"tagid\":1743,\"name\":\"Fighting\"},{\"tagid\":1746,\"name\":\"Basketball\"},{\"tagid\":1751,\"name\":\"Comic Book\"},{\"tagid\":1752,\"name\":\"Rhythm\"},{\"tagid\":1753,\"name\":\"Skateboarding\"},{\"tagid\":1754,\"name\":\"MMORPG\"},{\"tagid\":1755,\"name\":\"Space\"},{\"tagid\":1756,\"name\":\"Great Soundtrack\"},{\"tagid\":1759,\"name\":\"Perma Death\"},{\"tagid\":1770,\"name\":\"Board Game\"},{\"tagid\":1773,\"name\":\"Arcade\"},{\"tagid\":1774,\"name\":\"Shooter\"},{\"tagid\":1775,\"name\":\"PvP\"},{\"tagid\":1777,\"name\":\"Steampunk\"},{\"tagid\":3796,\"name\":\"Based On A Novel\"},{\"tagid\":3798,\"name\":\"Side Scroller\"},{\"tagid\":3799,\"name\":\"Visual Novel\"},{\"tagid\":3810,\"name\":\"Sandbox\"},{\"tagid\":3813,\"name\":\"Real Time Tactics\"},{\"tagid\":3814,\"name\":\"Third-Person Shooter\"},{\"tagid\":3834,\"name\":\"Exploration\"},{\"tagid\":3835,\"name\":\"Post-apocalyptic\"},{\"tagid\":3839,\"name\":\"First-Person\"},{\"tagid\":3841,\"name\":\"Local Co-Op\"},{\"tagid\":3843,\"name\":\"Online Co-Op\"},{\"tagid\":3854,\"name\":\"Lore-Rich\"},{\"tagid\":3859,\"name\":\"Multiplayer\"},{\"tagid\":3871,\"name\":\"2D\"},{\"tagid\":3877,\"name\":\"Precision Platformer\"},{\"tagid\":3878,\"name\":\"Competitive\"},{\"tagid\":3916,\"name\":\"Old School\"},{\"tagid\":3920,\"name\":\"Cooking\"},{\"tagid\":3934,\"name\":\"Immersive\"},{\"tagid\":3942,\"name\":\"Sci-fi\"},{\"tagid\":3952,\"name\":\"Gothic\"},{\"tagid\":3954,\"name\":\"Rail Shooter\"},{\"tagid\":3955,\"name\":\"Character Action Game\"},{\"tagid\":3959,\"name\":\"Roguelite\"},{\"tagid\":3964,\"name\":\"Pixel Graphics\"},{\"tagid\":3965,\"name\":\"Epic\"},{\"tagid\":3968,\"name\":\"Physics\"},{\"tagid\":3978,\"name\":\"Survival Horror\"},{\"tagid\":3987,\"name\":\"Historical\"},{\"tagid\":3993,\"name\":\"Combat\"},{\"tagid\":4004,\"name\":\"Retro\"},{\"tagid\":4018,\"name\":\"Vampire\"},{\"tagid\":4026,\"name\":\"Difficult\"},{\"tagid\":4036,\"name\":\"Parkour\"},{\"tagid\":4046,\"name\":\"Dragons\"},{\"tagid\":4057,\"name\":\"Magic\"},{\"tagid\":4064,\"name\":\"Thriller\"},{\"tagid\":4085,\"name\":\"Anime\"},{\"tagid\":4094,\"name\":\"Minimalist\"},{\"tagid\":4102,\"name\":\"Combat Racing\"},{\"tagid\":4106,\"name\":\"Action-Adventure\"},{\"tagid\":4115,\"name\":\"Cyberpunk\"},{\"tagid\":4136,\"name\":\"Funny\"},{\"tagid\":4137,\"name\":\"Transhumanism\"},{\"tagid\":4145,\"name\":\"Cinematic\"},{\"tagid\":4150,\"name\":\"World War II\"},{\"tagid\":4155,\"name\":\"Class-Based\"},{\"tagid\":4158,\"name\":\"Beat 'em up\"},{\"tagid\":4161,\"name\":\"Real-Time\"},{\"tagid\":4162,\"name\":\"Kids\"},{\"tagid\":4166,\"name\":\"Atmospheric\"},{\"tagid\":4168,\"name\":\"Military\"},{\"tagid\":4172,\"name\":\"Medieval\"},{\"tagid\":4175,\"name\":\"Realistic\"},{\"tagid\":4182,\"name\":\"Singleplayer\"},{\"tagid\":4184,\"name\":\"Chess\"},{\"tagid\":4190,\"name\":\"Addictive\"},{\"tagid\":4191,\"name\":\"3D\"},{\"tagid\":4195,\"name\":\"Cartoony\"},{\"tagid\":4202,\"name\":\"Trading\"},{\"tagid\":4231,\"name\":\"Action RPG\"},{\"tagid\":4234,\"name\":\"Short\"},{\"tagid\":4236,\"name\":\"Loot\"},{\"tagid\":4242,\"name\":\"Episodic\"},{\"tagid\":4252,\"name\":\"Stylized\"},{\"tagid\":4255,\"name\":\"Shoot 'Em Up\"},{\"tagid\":4291,\"name\":\"Spaceships\"},{\"tagid\":4295,\"name\":\"Futuristic\"},{\"tagid\":4305,\"name\":\"Colorful\"},{\"tagid\":4325,\"name\":\"Turn-Based Combat\"},{\"tagid\":4328,\"name\":\"City Builder\"},{\"tagid\":4342,\"name\":\"Dark\"},{\"tagid\":4345,\"name\":\"Gore\"},{\"tagid\":4364,\"name\":\"Grand Strategy\"},{\"tagid\":4376,\"name\":\"Assassin\"},{\"tagid\":4400,\"name\":\"Abstract\"},{\"tagid\":4434,\"name\":\"JRPG\"},{\"tagid\":4474,\"name\":\"CRPG\"},{\"tagid\":4486,\"name\":\"Choose Your Own Adventure\"},{\"tagid\":4508,\"name\":\"Co-op Campaign\"},{\"tagid\":4520,\"name\":\"Farming\"},{\"tagid\":4559,\"name\":\"Quick-Time Events\"},{\"tagid\":4562,\"name\":\"Cartoon\"},{\"tagid\":4598,\"name\":\"Alternate History\"},{\"tagid\":4604,\"name\":\"Dark Fantasy\"},{\"tagid\":4608,\"name\":\"Swordplay\"},{\"tagid\":4637,\"name\":\"Top-Down Shooter\"},{\"tagid\":4667,\"name\":\"Violent\"},{\"tagid\":4684,\"name\":\"Wargame\"},{\"tagid\":4695,\"name\":\"Economy\"},{\"tagid\":4700,\"name\":\"Movie\"},{\"tagid\":4711,\"name\":\"Replay Value\"},{\"tagid\":4726,\"name\":\"Cute\"},{\"tagid\":4736,\"name\":\"2D Fighter\"},{\"tagid\":4747,\"name\":\"Character Customization\"},{\"tagid\":4754,\"name\":\"Politics\"},{\"tagid\":4758,\"name\":\"Twin Stick Shooter\"},{\"tagid\":4777,\"name\":\"Spectacle fighter\"},{\"tagid\":4791,\"name\":\"Top-Down\"},{\"tagid\":4821,\"name\":\"Mechs\"},{\"tagid\":4835,\"name\":\"6DOF\"},{\"tagid\":4840,\"name\":\"4 Player Local\"},{\"tagid\":4845,\"name\":\"Capitalism\"},{\"tagid\":4853,\"name\":\"Political\"},{\"tagid\":4878,\"name\":\"Parody \"},{\"tagid\":4885,\"name\":\"Bullet Hell\"},{\"tagid\":4947,\"name\":\"Romance\"},{\"tagid\":4975,\"name\":\"2.5D\"},{\"tagid\":4994,\"name\":\"Naval Combat\"},{\"tagid\":5030,\"name\":\"Dystopian \"},{\"tagid\":5055,\"name\":\"eSports\"},{\"tagid\":5094,\"name\":\"Narration\"},{\"tagid\":5125,\"name\":\"Procedural Generation\"},{\"tagid\":5153,\"name\":\"Kickstarter\"},{\"tagid\":5154,\"name\":\"Score Attack\"},{\"tagid\":5160,\"name\":\"Dinosaurs\"},{\"tagid\":5179,\"name\":\"Cold War\"},{\"tagid\":5186,\"name\":\"Psychological\"},{\"tagid\":5228,\"name\":\"Blood\"},{\"tagid\":5230,\"name\":\"Sequel\"},{\"tagid\":5300,\"name\":\"God Game\"},{\"tagid\":5310,\"name\":\"Games Workshop\"},{\"tagid\":5348,\"name\":\"Mod\"},{\"tagid\":5350,\"name\":\"Family Friendly\"},{\"tagid\":5363,\"name\":\"Destruction\"},{\"tagid\":5372,\"name\":\"Conspiracy\"},{\"tagid\":5379,\"name\":\"2D Platformer\"},{\"tagid\":5382,\"name\":\"World War I\"},{\"tagid\":5390,\"name\":\"Time Attack\"},{\"tagid\":5395,\"name\":\"3D Platformer\"},{\"tagid\":5407,\"name\":\"Benchmark\"},{\"tagid\":5411,\"name\":\"Beautiful\"},{\"tagid\":5432,\"name\":\"Programming\"},{\"tagid\":5502,\"name\":\"Hacking\"},{\"tagid\":5537,\"name\":\"Puzzle Platformer\"},{\"tagid\":5547,\"name\":\"Arena Shooter\"},{\"tagid\":5577,\"name\":\"RPGMaker\"},{\"tagid\":5608,\"name\":\"Emotional\"},{\"tagid\":5611,\"name\":\"Mature\"},{\"tagid\":5613,\"name\":\"Detective\"},{\"tagid\":5652,\"name\":\"Collectathon\"},{\"tagid\":5673,\"name\":\"Modern\"},{\"tagid\":5708,\"name\":\"Remake\"},{\"tagid\":5711,\"name\":\"Team-Based\"},{\"tagid\":5716,\"name\":\"Mystery\"},{\"tagid\":5727,\"name\":\"Baseball\"},{\"tagid\":5752,\"name\":\"Robots\"},{\"tagid\":5765,\"name\":\"Gun Customization\"},{\"tagid\":5794,\"name\":\"Science\"},{\"tagid\":5796,\"name\":\"Bullet Time\"},{\"tagid\":5851,\"name\":\"Isometric\"},{\"tagid\":5900,\"name\":\"Walking Simulator\"},{\"tagid\":5914,\"name\":\"Tennis\"},{\"tagid\":5923,\"name\":\"Dark Humor\"},{\"tagid\":5941,\"name\":\"Reboot\"},{\"tagid\":5981,\"name\":\"Mining\"},{\"tagid\":5984,\"name\":\"Drama\"},{\"tagid\":6041,\"name\":\"Horses\"},{\"tagid\":6052,\"name\":\"Noir\"},{\"tagid\":6129,\"name\":\"Logic\"},{\"tagid\":6214,\"name\":\"Birds\"},{\"tagid\":6276,\"name\":\"Inventory Management\"},{\"tagid\":6310,\"name\":\"Diplomacy\"},{\"tagid\":6378,\"name\":\"Crime\"},{\"tagid\":6426,\"name\":\"Choices Matter\"},{\"tagid\":6506,\"name\":\"3D Fighter\"},{\"tagid\":6621,\"name\":\"Pinball\"},{\"tagid\":6625,\"name\":\"Time Manipulation\"},{\"tagid\":6650,\"name\":\"Nudity\"},{\"tagid\":6691,\"name\":\"1990's\"},{\"tagid\":6702,\"name\":\"Mars\"},{\"tagid\":6730,\"name\":\"PvE\"},{\"tagid\":6815,\"name\":\"Hand-drawn\"},{\"tagid\":6869,\"name\":\"Nonlinear\"},{\"tagid\":6910,\"name\":\"Naval\"},{\"tagid\":6915,\"name\":\"Martial Arts\"},{\"tagid\":6948,\"name\":\"Rome\"},{\"tagid\":6971,\"name\":\"Multiple Endings\"},{\"tagid\":7038,\"name\":\"Golf\"},{\"tagid\":7107,\"name\":\"Real-Time with Pause\"},{\"tagid\":7108,\"name\":\"Party\"},{\"tagid\":7113,\"name\":\"Crowdfunded\"},{\"tagid\":7178,\"name\":\"Party Game\"},{\"tagid\":7208,\"name\":\"Female Protagonist\"},{\"tagid\":7250,\"name\":\"Linear\"},{\"tagid\":7309,\"name\":\"Skiing\"},{\"tagid\":7328,\"name\":\"Bowling\"},{\"tagid\":7332,\"name\":\"Base Building\"},{\"tagid\":7368,\"name\":\"Local Multiplayer\"},{\"tagid\":7423,\"name\":\"Sniper\"},{\"tagid\":7432,\"name\":\"Lovecraftian\"},{\"tagid\":7478,\"name\":\"Illuminati\"},{\"tagid\":7481,\"name\":\"Controller\"},{\"tagid\":7556,\"name\":\"Dice\"},{\"tagid\":7569,\"name\":\"Grid-Based Movement\"},{\"tagid\":7622,\"name\":\"Offroad\"},{\"tagid\":7702,\"name\":\"Narrative\"},{\"tagid\":7743,\"name\":\"1980s\"},{\"tagid\":7782,\"name\":\"Cult Classic\"},{\"tagid\":7918,\"name\":\"Dwarf\"},{\"tagid\":7926,\"name\":\"Artificial Intelligence\"},{\"tagid\":7948,\"name\":\"Soundtrack\"},{\"tagid\":8013,\"name\":\"Software\"},{\"tagid\":8075,\"name\":\"TrackIR\"},{\"tagid\":8093,\"name\":\"Minigames\"},{\"tagid\":8122,\"name\":\"Level Editor\"},{\"tagid\":8253,\"name\":\"Music-Based Procedural Generation\"},{\"tagid\":8369,\"name\":\"Investigation\"},{\"tagid\":8461,\"name\":\"Well-Written\"},{\"tagid\":8666,\"name\":\"Runner\"},{\"tagid\":8945,\"name\":\"Resource Management\"},{\"tagid\":9130,\"name\":\"Hentai\"},{\"tagid\":9157,\"name\":\"Underwater\"},{\"tagid\":9204,\"name\":\"Immersive Sim\"},{\"tagid\":9271,\"name\":\"Trading Card Game\"},{\"tagid\":9541,\"name\":\"Demons\"},{\"tagid\":9551,\"name\":\"Dating Sim\"},{\"tagid\":9564,\"name\":\"Hunting\"},{\"tagid\":9592,\"name\":\"Dynamic Narration\"},{\"tagid\":9803,\"name\":\"Snow\"},{\"tagid\":9994,\"name\":\"Experience\"},{\"tagid\":10235,\"name\":\"Life Sim\"},{\"tagid\":10383,\"name\":\"Transportation\"},{\"tagid\":10397,\"name\":\"Memes\"},{\"tagid\":10437,\"name\":\"Trivia\"},{\"tagid\":10679,\"name\":\"Time Travel\"},{\"tagid\":10695,\"name\":\"Party-Based RPG\"},{\"tagid\":10808,\"name\":\"Supernatural\"},{\"tagid\":10816,\"name\":\"Split Screen\"},{\"tagid\":11014,\"name\":\"Interactive Fiction\"},{\"tagid\":11095,\"name\":\"Boss Rush\"},{\"tagid\":11104,\"name\":\"Vehicular Combat\"},{\"tagid\":11123,\"name\":\"Mouse only\"},{\"tagid\":11333,\"name\":\"Villain Protagonist\"},{\"tagid\":11634,\"name\":\"Vikings\"},{\"tagid\":12057,\"name\":\"Tutorial\"},{\"tagid\":12095,\"name\":\"Sexual Content\"},{\"tagid\":12190,\"name\":\"Boxing\"},{\"tagid\":12286,\"name\":\"Warhammer 40K\"},{\"tagid\":12472,\"name\":\"Management\"},{\"tagid\":13070,\"name\":\"Solitaire\"},{\"tagid\":13190,\"name\":\"America\"},{\"tagid\":13276,\"name\":\"Tanks\"},{\"tagid\":13382,\"name\":\"Archery\"},{\"tagid\":13577,\"name\":\"Sailing\"},{\"tagid\":13782,\"name\":\"Experimental\"},{\"tagid\":13906,\"name\":\"Game Development\"},{\"tagid\":14139,\"name\":\"Turn-Based Tactics\"},{\"tagid\":14153,\"name\":\"Dungeons & Dragons\"},{\"tagid\":14720,\"name\":\"Nostalgia\"},{\"tagid\":14906,\"name\":\"Intentionally Awkward Controls\"},{\"tagid\":15045,\"name\":\"Flight\"},{\"tagid\":15172,\"name\":\"Conversation\"},{\"tagid\":15277,\"name\":\"Philosophical\"},{\"tagid\":15339,\"name\":\"Documentary\"},{\"tagid\":15564,\"name\":\"Fishing\"},{\"tagid\":15868,\"name\":\"Motocross\"},{\"tagid\":15954,\"name\":\"Silent Protagonist\"},{\"tagid\":16094,\"name\":\"Mythology\"},{\"tagid\":16250,\"name\":\"Gambling\"},{\"tagid\":16598,\"name\":\"Space Sim\"},{\"tagid\":16689,\"name\":\"Time Management\"},{\"tagid\":17015,\"name\":\"Werewolves\"},{\"tagid\":17305,\"name\":\"Strategy RPG\"},{\"tagid\":17337,\"name\":\"Lemmings\"},{\"tagid\":17389,\"name\":\"Tabletop\"},{\"tagid\":17770,\"name\":\"Asynchronous Multiplayer\"},{\"tagid\":17894,\"name\":\"Cats\"},{\"tagid\":17927,\"name\":\"Pool\"},{\"tagid\":18594,\"name\":\"FMV\"},{\"tagid\":19568,\"name\":\"Cycling\"},{\"tagid\":19780,\"name\":\"Submarine\"},{\"tagid\":19995,\"name\":\"Dark Comedy\"},{\"tagid\":21006,\"name\":\"Underground\"},{\"tagid\":21725,\"name\":\"Tactical RPG\"},{\"tagid\":21978,\"name\":\"VR\"},{\"tagid\":22602,\"name\":\"Agriculture\"},{\"tagid\":22955,\"name\":\"Mini Golf\"},{\"tagid\":24003,\"name\":\"Word Game\"},{\"tagid\":24904,\"name\":\"NSFW\"},{\"tagid\":25085,\"name\":\"Touch-Friendly\"},{\"tagid\":26921,\"name\":\"Political Sim\"},{\"tagid\":27758,\"name\":\"Voice Control\"},{\"tagid\":28444,\"name\":\"Snowboarding\"},{\"tagid\":29363,\"name\":\"3D Vision\"},{\"tagid\":29482,\"name\":\"Souls-like\"},{\"tagid\":29855,\"name\":\"Ambient\"},{\"tagid\":30358,\"name\":\"Nature\"},{\"tagid\":30927,\"name\":\"Fox\"},{\"tagid\":31275,\"name\":\"Text-Based\"},{\"tagid\":31579,\"name\":\"Otome\"},{\"tagid\":32322,\"name\":\"Deckbuilding\"},{\"tagid\":33572,\"name\":\"Mahjong\"},{\"tagid\":35079,\"name\":\"Job Simulator\"},{\"tagid\":37799,\"name\":\"Combat Flight Simulator\"},{\"tagid\":40500,\"name\":\"Sexual Themes\"},{\"tagid\":42089,\"name\":\"Jump Scare\"},{\"tagid\":42329,\"name\":\"Coding\"},{\"tagid\":42804,\"name\":\"Action Roguelike\"},{\"tagid\":44868,\"name\":\"LGBTQ+\"},{\"tagid\":47827,\"name\":\"Wrestling\"},{\"tagid\":49213,\"name\":\"Rugby\"},{\"tagid\":51306,\"name\":\"Foreign\"},{\"tagid\":56690,\"name\":\"On-Rails Shooter\"},{\"tagid\":61357,\"name\":\"Electronic Music\"},{\"tagid\":71389,\"name\":\"Spelling\"},{\"tagid\":87918,\"name\":\"Farming Sim\"},{\"tagid\":91114,\"name\":\"Shop Keeper\"},{\"tagid\":92092,\"name\":\"Jet\"},{\"tagid\":96359,\"name\":\"Skating\"},{\"tagid\":97376,\"name\":\"Cozy\"},{\"tagid\":102530,\"name\":\"Elf\"},{\"tagid\":117648,\"name\":\"8-bit Music\"},{\"tagid\":123332,\"name\":\"Bikes\"},{\"tagid\":129761,\"name\":\"ATV\"},{\"tagid\":143739,\"name\":\"Electronic\"},{\"tagid\":150626,\"name\":\"Gaming\"},{\"tagid\":158638,\"name\":\"Cricket\"},{\"tagid\":176733,\"name\":\"Tile-Matching\"},{\"tagid\":176981,\"name\":\"Battle Royale\"},{\"tagid\":180368,\"name\":\"Faith\"},{\"tagid\":189941,\"name\":\"Instrumental Music\"},{\"tagid\":198631,\"name\":\"Mystery Dungeon\"},{\"tagid\":198913,\"name\":\"Motorbike\"},{\"tagid\":220585,\"name\":\"Colony Sim\"},{\"tagid\":233824,\"name\":\"Feature Film\"},{\"tagid\":252854,\"name\":\"BMX\"},{\"tagid\":255534,\"name\":\"Automation\"},{\"tagid\":323922,\"name\":\"Musou\"},{\"tagid\":324176,\"name\":\"Hockey\"},{\"tagid\":337964,\"name\":\"Rock Music\"},{\"tagid\":348922,\"name\":\"Steam Machine\"},{\"tagid\":353880,\"name\":\"Looter Shooter\"},{\"tagid\":363767,\"name\":\"Snooker\"},{\"tagid\":379975,\"name\":\"Clicker\"},{\"tagid\":454187,\"name\":\"Traditional Roguelike\"},{\"tagid\":552282,\"name\":\"Wholesome\"},{\"tagid\":603297,\"name\":\"Hardware\"},{\"tagid\":615955,\"name\":\"Idler\"},{\"tagid\":620519,\"name\":\"Hero Shooter\"},{\"tagid\":745697,\"name\":\"Social Deduction\"},{\"tagid\":769306,\"name\":\"Escape Room\"},{\"tagid\":776177,\"name\":\"360 Video\"},{\"tagid\":791774,\"name\":\"Card Battler\"},{\"tagid\":847164,\"name\":\"Volleyball\"},{\"tagid\":856791,\"name\":\"Asymmetric VR\"},{\"tagid\":916648,\"name\":\"Creature Collector\"},{\"tagid\":922563,\"name\":\"Roguevania\"},{\"tagid\":1023537,\"name\":\"Boomer Shooter\"},{\"tagid\":1084988,\"name\":\"Auto Battler\"},{\"tagid\":1091588,\"name\":\"Roguelike Deckbuilder\"},{\"tagid\":1100686,\"name\":\"Outbreak Sim\"},{\"tagid\":1100687,\"name\":\"Automobile Sim\"},{\"tagid\":1100688,\"name\":\"Medical Sim\"},{\"tagid\":1100689,\"name\":\"Open World Survival Craft\"},{\"tagid\":1199779,\"name\":\"Extraction Shooter\"},{\"tagid\":1220528,\"name\":\"Hobby Sim\"},{\"tagid\":1254546,\"name\":\"Football (Soccer)\"},{\"tagid\":1254552,\"name\":\"Football (American)\"}]}"
+		"CTextFilterStore_TextFilterPreferences_1251125222"		"{\"eTextFilterSetting\":1,\"bIgnoreFriends\":1}"
+		"CTextFilterStore_TextFilterWords_1251125222"		"KDEpeyJ0ZXh0X2ZpbHRlcl9jdXN0b21fYmFubmVkX3dvcmRzIjpbXSwidGV4dF9maWx0ZXJfY3VzdG9tX2NsZWFuX3dvcmRzIjpbXX0="
+		"CTextFilterStore_strBannedPattern_1251125222"		"KDEpXGIo77u/KGFwZXxiYXR8YnVsbD98YnV0dHxkaXB8ZG9nfGR1bWJ8ZWJvfGhvbHl8aG9yc2V8amFja3xwZWRvfHBpZ3x1YmkpXFcqc2goaXR8dGkpcz98ZFtpbF0rKGNrfGtjKVxXKihhc3N8YmFnfGJyZWF0aHxlYXR8ZmFjZXxmbGlwfGhlYWR8aG9sZXxsZXNzfHN1Y2t8d2VlZClcdyp8ZltjaGpdPyhhfGF1fGF3fGV8byt8dXx1eSlbY2hdKmsoZT9kfGU/cnM/fFtlaV0/bitnP3x0KXxtW2FvdV0oZCt8dCt8dGh8aHR8eikoYXxlfGVyfGlyfHVyKShjfGYpYz9bYW91XWM/a1x3KnxtW291XXRoKGF8ZXIpKGZ8cGgpW3Z1ZV0rYz9bZ2txeF0rKGU/ZHxlP3J8W2VpXT9uK2c/KXxcdypmW3Z1XStoKmMrW2hqdmtdKihlP2R8ZT9yfFtlaV0/bitnP3x0KXxiK2krYSp0K2MraCsoZStkfGUqcj9bc3pdK3xbZWldP24rZz98eSl8XHcqZlt2dV0rYz9beGtxXSsoZT9kfGU/cnxbZWldP24rZz98dCl8cChvbyt8dSspcysoYSt5K3xlK3xlaHxleXxpK3xpZXx5KylzKnxtW291XXRoKGF8ZXIpKGZ8cGgpW3Z1ZV0rYz9bZ2txeF0rfFx3KmZbdnVdK2gqcShlP2R8ZT9yfFtlaV0/bitnP3x0KXxmW2Noal0/KGF8YXV8YXd8ZXxvK3x1fHV5KVtjaF0qa3xmW2NrXSsoZT9kfGU/cnxbZWldP24rZz98dCl8ZnXzoICh86CAoWNrafOggKHzoIChbmd8ZHVtYihmfHBoKVt2dV0rYz9beGtxXXxjKG9jP3xhdylrXFcqc3VjP2tcdyp8ZFtpbF0rKGNrfGtjKShlZHxpbmcpfHBoW3Z1XStoKmMrW2hqdmtdKlx3Knxzb25cVypvZlxXKmFcVypiaXRjaHzQtNC+0LvQsdC+0LXQsdC40LfQvHxcdyp3aG8rcmUoZWR8aW5nfHMpfGMob3xhaHxhdyljP2soc3xlZCl8cytoK1tpbHldK3QrW2Vyc3ldKnxhK3NzK1xXKnc/aG9sZT9cdyp8cGhbdnVdK2M/W3hrcV0rXHcqfNCz0L7QstC90L7QtdC00L7QsnzQtNC+0LvQsdCw0LXQsdC+0LJ80LXQsdC70LDQvdGB0LrQsNGPfNC10LHQu9Cw0L3RgdC60LjQuXzQt9Cw0LXQsdGR0YjRjNGB0Y980LfQsNGF0YPRj9GH0LjQu9C4fNC/0LjQtNCw0YDQsNGB0L7QsnzQv9C40LTQsNGA0YHQutC40Ll80YHRitC10LHQsNGC0YzRgdGPfNGD0LXQsdCw0L3RgdC60LjQuXzRg9C10LHQuNGJ0YzQvdC+0LV8Zlt2dV0rYz9beGtxXStcdyp8YnVsbCtzaCtbaWx5XSt0K3xnb2RcVypkYW1uP1xXKml0fNCw0YXRg9C10L3QvdCw0Y980LDRhdGD0LXQvdC90YPRjnzQsNGF0YPQtdC90L3Ri9C5fNCy0YvQtdCx0LDQvdC+0LV80LXQsdCw0L3QvdC+0LzRg3zQtdCx0LDQvdGD0YLRi9C1fNC10LHQu9Cw0L3QsNC80Lh80L/QuNC00LDRgNCw0YHRi3zRg9GR0LHQuNGJ0L3QsNGPfNGD0ZHQsdC40YnQvdGL0Ll8Z29kXFcqZGFtbj9cdyp80LLRitC10LHQsNC70Lh80LLRitC10LHQsNGC0Yx80LXQsdCw0L3QvdCw0Y980LXQsdCw0L3QvdC+0LV80LXQsdCw0L3QvdGL0YV80LXQsdCw0L3QvtCz0L580LXQsdCw0L3RjNC60Lh80LXQsdC+0L3QvdC+0LV80LfQsNC10LHQsNC70LB80LfQsNC10LHQsNC70L580L/QvtC10LHQtdC90Yx80YXRg9GR0LLQvtCz0L58YStzcytcVypmdVx3KnxjKG98YWh8YXcpYz9rfGRbaWxdKyhja3xrYyl8YitpK2EqdCtjK2grfGJ1dHRcVypmdVx3KnxjdW1tKGVyfGluZyl8Zlt2dV0raCpjXHcqfGZbdnVdK2gqcVx3KnxzaCtpK1thZV0rdCt80LDRhdGD0LXQu9C4fNC10LHQsNC90LDRj3zQtdCx0LDQvdC+0LV80LXQsdCw0L3QvtC5fNC10LHQsNC90YPRjnzQtdCx0LDQvdGL0LV80LXQsdCw0L3Ri9C5fNC10LHQsNC90YvQvHzQtdCx0LDQvdGL0YV80LXQsdGD0YfQuNC5fNC/0LjQt9C00LXQtnzQv9C40LfQtNC10YZ80YHRgNCw0L3QsNGPfNGD0ZHQsdC40YnQsHzRg9GR0LHQuNGJ0LV80YXRg9C10YHQvtGBfNGF0YPQtdGC0L7QuXzRhdGD0LnQvdGR0Ll80YXRg9GR0LLQsNGPfNGF0YPRkdCy0YvQuXzkvaDlpojmrbvkuoZ85aaI55qE5Liq6YC8fOaIkeaYr+WCu+mAvHxjK3Urbit0K1x3KnxkK2krYytrK3MqfGZ14oCOY2tpbmd80LHQu9GP0LTRjHzQsdC70Y/RgtGMfNC00L7RhdGD0Y980LTRgNC+0YfQuHzQtdCx0LDQu9C+fNC10LHQsNGC0Yx80L000LXQsTTQu3zQvdCw0YXRg9C5fNC90LDRhdGD0Y980L3QtdGF0YPQuXzQvdC40YXRg9GPfNC/0LjQt9C00LV80L/QuNC30LTRg3zQv9C+0YXRg9C5fNGD0LXQsdGR0YJ80YXRg9C10YLQsHzRhdGD0LXRgtGDfNGF0YPQudC90Lh80YXRg9C50L3RjnzRhdGD0LnQvdGPfNGI0LvRjtGF0Lh80ZHQsdCw0L3Ri3xhK3Nob2xlcz98c2grZStpK3QrfOaTjeS9oOWmiHzmk43kvaDlprl86IKP5L2g5aaIfNCw0YXRg9C1fNC10LHQsNC7fNC10LHRg9GCfNGB0YPQutCwfNGF0YPRj9C8fNGI0LvRjtGFfEZcLlVcLkNcLkt8Y2hvZGVzP3xjdW1zaG90fGZ1Y2tpbmd8ZnXigI5ja3xzaGl0XHcqfHNodHBvc3R8d2hvK3JlP3xjdW1iYWd8amViYW5lfHR3YXRzP3zQsdC70Y980LXQsdGDfNGF0YPQuHzRhdGD0Ll80YXRg9GPfOWCu+WxhHzlgrvpgLx85pON5q27fOiHremAvHxjdW1zP3xkYWZ1cXxkadGBa3xzaCBpdHxjb3ErfGhvcmV8a29ja3xubXNsfHNoYXR8ZGlrfGZja3xreXN8XHcqZit1K2Mraytcdyp8XHcqZtGG0YHQulx3KnxcdypzaNGWdHR5XHcqfFx3KmZfdWNfa1x3KnxcdypwdXNzeVx3Knzvu79uKyhbZWhpeV0rfGF5fGV5fGlvfFtpbF0rKVtiZ3EkXStoPyhhK3xhZXJ8YStoK3xhK3IrfGUrfGVhfGVvYXxlK3IrfGllfGllcnxsZXR8bGl0fG98b3J8cit8dXx1aHx1aHJ8dStyK3x3YXJkfHkrKXMqfGZbYWVdeT9nK1tvZWl1XSt0K3M/fNC00LDRg9C90YHQutCw0Y980L/QuNC00L7RgNCw0YHRi3xjaGluZ1xXKmNob25ncz98bvOggKHzoIChaWdnZXJzfHJlK3QrYT9yW2R0XStzP3x0b3dlbFxXKmhlYWRzP3zQvNC+0YHQutCw0LvRjHzQv9C40LTQvtGA0LrQsHxwYWM/ayhpfGllfHkpfHRpbmdcVyp0b25ncz98dHJhbm4oaWV8eSlzP3x3aGl0ZVxXKnRyYXNofG5pOmdnXHcqOlx3KnxjaGluKGN8aylzP3xrYWx0YWtsYXJsYXxrYWx0YWtsYXJsYXxuK2krW2dxXStzP3x5YW1cVyp5YW1zP3xcdypuaWdnYXM/fGNoaW5hbWFucz98cG9sYWNrZT9zP3x0cmFubnljb3JlfNC60LDRhtCw0L980YDRg9GB0L3Rj3zRhdC+0YXQu9GLfNGF0L7RhdC+0Lt8bmVla2VyaXM/fG5pZ2ZoZXJzP3xyZWRza2lucz98YmVhbmVycz98Y29vbGllcz98Y3phcm51Y2h8ZithK2crcyp8ZmVuaWFucz98Z3Jpbmdvcz98bmV3ZmFncz98bmkgZ2cgZXJ8bmlnZ2Fcdyp8bmlnZ2xlcz98bmlnbm9ncz98cnVzK2tpcz98d2lnZ2Vycz98z5xhZ2fQvnR8Z3lwc2llc3xpbmp1bnM/fGppZ2dhcz98bmlra2FzP3x3aWdnYXM/fNC4aWdnZXJ8XHcqZmFnfGJlYW5lcnxjb29ucz98ZHlrZXM/fGZhNjZvdHxmYWd0cz98Z29va3M/fGd5cG9zP3xob21vcz98a2lrZXM/fGtva2hvbHxtb3NrYWx8cmVnZ2lufHNwaWNzP3x5d25iYXd86buR6ay8fGFib3M/fGZndHM/fGbQsGdzfGd5cHN5fGphcHM/fHRyb29ufHdvcHM/fGZhZ3p8ZtCwZ3xmQGd8XHcqTvOggKHzoIChSUdHRfOggKHzoIChUlx3KnxcdyrRgdCy0LjQvdC+0YHQvtCx0LDQulx3KnxcdyrJtMmqyaLJouG0h8qAXHcqfFx3Km7Rlmdn0LVyXHcqfFx3Kk7DjUdHRVJcdyp8XHcqblxcXHxnZ2VyXHcqfFx3Km5pZ2fQtXJcdyp8XHcqRjRHRzBUXHcqfFx3Kk4xR0czUlx3KnxcdypuaWdnZXJcdyp8XHcqdHJhbm55XHcqfFx3Km5pZ2c0XHcqfFx3Km5pZ2d6XHcqKVxi"
+		"CTextFilterStore_strCleanPattern_1251125222"		"KDEpXihcYihmYWsoZWR8ZXJzP3xpbmcpfGtvbXBldGVuenRlYW185rS+6YCB5ZGYfHBpbmVncm92ZXxuXC5lXC5pZ1wuZVwufGZ1a3VzaGltYXxzbmlnZ2VyfG5pZSBnZWV8ZnVrdW9rYXxmdWNoc2lhfGZ1Y2hpYW58Y29ja1wubGl8cGh1a2V0fGZ1eGl1c3xmdWN1cm98bmllZ298bmllYm98bmVpZ2V8bmVnZ3l8bmViYnl8ZnV4aXN8Y3dmYWd8cHViZ3xuaWJ5fG5lYnV8bmVib3xmdWt1fGZ1a2l8ZmFrdHxnMjR8ZmNyfFx3KmZ2Y2h2b1x3KilcYikk"
+		"SteamVoiceSettings_1215926338"		"{\"inputGain\":1,\"outputGain\":1,\"noiseGateLevel\":2,\"noiseCancellation\":true,\"echoCancellation\":true,\"autoGainControl\":true,\"selectedMic\":\"default\",\"selectedOutput\":\"default\",\"pttSoundsEnabled\":true,\"hasResetOpenMicHotKey\":true}"
+		"CTextFilterStore_TextFilterPreferences_1215926338"		"{\"eTextFilterSetting\":1,\"bIgnoreFriends\":1}"
+		"CTextFilterStore_TextFilterWords_1215926338"		"KDEpeyJ0ZXh0X2ZpbHRlcl9jdXN0b21fYmFubmVkX3dvcmRzIjpbXSwidGV4dF9maWx0ZXJfY3VzdG9tX2NsZWFuX3dvcmRzIjpbXX0="
+		"CTextFilterStore_strBannedPattern_1215926338"		"KDEpXGIo77u/KGFwZXxiYXR8YnVsbD98YnV0dHxkaXB8ZG9nfGR1bWJ8ZWJvfGhvbHl8aG9yc2V8amFja3xwZWRvfHBpZ3x1YmkpXFcqc2goaXR8dGkpcz98ZFtpbF0rKGNrfGtjKVxXKihhc3N8YmFnfGJyZWF0aHxlYXR8ZmFjZXxmbGlwfGhlYWR8aG9sZXxsZXNzfHN1Y2t8d2VlZClcdyp8ZltjaGpdPyhhfGF1fGF3fGV8byt8dXx1eSlbY2hdKmsoZT9kfGU/cnM/fFtlaV0/bitnP3x0KXxtW2FvdV0oZCt8dCt8dGh8aHR8eikoYXxlfGVyfGlyfHVyKShjfGYpYz9bYW91XWM/a1x3KnxtW291XXRoKGF8ZXIpKGZ8cGgpW3Z1ZV0rYz9bZ2txeF0rKGU/ZHxlP3J8W2VpXT9uK2c/KXxcdypmW3Z1XStoKmMrW2hqdmtdKihlP2R8ZT9yfFtlaV0/bitnP3x0KXxiK2krYSp0K2MraCsoZStkfGUqcj9bc3pdK3xbZWldP24rZz98eSl8XHcqZlt2dV0rYz9beGtxXSsoZT9kfGU/cnxbZWldP24rZz98dCl8cChvbyt8dSspcysoYSt5K3xlK3xlaHxleXxpK3xpZXx5KylzKnxtW291XXRoKGF8ZXIpKGZ8cGgpW3Z1ZV0rYz9bZ2txeF0rfFx3KmZbdnVdK2gqcShlP2R8ZT9yfFtlaV0/bitnP3x0KXxmW2Noal0/KGF8YXV8YXd8ZXxvK3x1fHV5KVtjaF0qa3xmW2NrXSsoZT9kfGU/cnxbZWldP24rZz98dCl8ZnXzoICh86CAoWNrafOggKHzoIChbmd8ZHVtYihmfHBoKVt2dV0rYz9beGtxXXxjKG9jP3xhdylrXFcqc3VjP2tcdyp8ZFtpbF0rKGNrfGtjKShlZHxpbmcpfHBoW3Z1XStoKmMrW2hqdmtdKlx3Knxzb25cVypvZlxXKmFcVypiaXRjaHzQtNC+0LvQsdC+0LXQsdC40LfQvHxcdyp3aG8rcmUoZWR8aW5nfHMpfGMob3xhaHxhdyljP2soc3xlZCl8cytoK1tpbHldK3QrW2Vyc3ldKnxhK3NzK1xXKnc/aG9sZT9cdyp8cGhbdnVdK2M/W3hrcV0rXHcqfNCz0L7QstC90L7QtdC00L7QsnzQtNC+0LvQsdCw0LXQsdC+0LJ80LXQsdC70LDQvdGB0LrQsNGPfNC10LHQu9Cw0L3RgdC60LjQuXzQt9Cw0LXQsdGR0YjRjNGB0Y980LfQsNGF0YPRj9GH0LjQu9C4fNC/0LjQtNCw0YDQsNGB0L7QsnzQv9C40LTQsNGA0YHQutC40Ll80YHRitC10LHQsNGC0YzRgdGPfNGD0LXQsdCw0L3RgdC60LjQuXzRg9C10LHQuNGJ0YzQvdC+0LV8Zlt2dV0rYz9beGtxXStcdyp8YnVsbCtzaCtbaWx5XSt0K3xnb2RcVypkYW1uP1xXKml0fNCw0YXRg9C10L3QvdCw0Y980LDRhdGD0LXQvdC90YPRjnzQsNGF0YPQtdC90L3Ri9C5fNCy0YvQtdCx0LDQvdC+0LV80LXQsdCw0L3QvdC+0LzRg3zQtdCx0LDQvdGD0YLRi9C1fNC10LHQu9Cw0L3QsNC80Lh80L/QuNC00LDRgNCw0YHRi3zRg9GR0LHQuNGJ0L3QsNGPfNGD0ZHQsdC40YnQvdGL0Ll8Z29kXFcqZGFtbj9cdyp80LLRitC10LHQsNC70Lh80LLRitC10LHQsNGC0Yx80LXQsdCw0L3QvdCw0Y980LXQsdCw0L3QvdC+0LV80LXQsdCw0L3QvdGL0YV80LXQsdCw0L3QvtCz0L580LXQsdCw0L3RjNC60Lh80LXQsdC+0L3QvdC+0LV80LfQsNC10LHQsNC70LB80LfQsNC10LHQsNC70L580L/QvtC10LHQtdC90Yx80YXRg9GR0LLQvtCz0L58YStzcytcVypmdVx3KnxjKG98YWh8YXcpYz9rfGRbaWxdKyhja3xrYyl8YitpK2EqdCtjK2grfGJ1dHRcVypmdVx3KnxjdW1tKGVyfGluZyl8Zlt2dV0raCpjXHcqfGZbdnVdK2gqcVx3KnxzaCtpK1thZV0rdCt80LDRhdGD0LXQu9C4fNC10LHQsNC90LDRj3zQtdCx0LDQvdC+0LV80LXQsdCw0L3QvtC5fNC10LHQsNC90YPRjnzQtdCx0LDQvdGL0LV80LXQsdCw0L3Ri9C5fNC10LHQsNC90YvQvHzQtdCx0LDQvdGL0YV80LXQsdGD0YfQuNC5fNC/0LjQt9C00LXQtnzQv9C40LfQtNC10YZ80YHRgNCw0L3QsNGPfNGD0ZHQsdC40YnQsHzRg9GR0LHQuNGJ0LV80YXRg9C10YHQvtGBfNGF0YPQtdGC0L7QuXzRhdGD0LnQvdGR0Ll80YXRg9GR0LLQsNGPfNGF0YPRkdCy0YvQuXzkvaDlpojmrbvkuoZ85aaI55qE5Liq6YC8fOaIkeWOu+S9oOeahHzmiJHmmK/lgrvpgLx8Yyt1K24rdCtcdyp8ZCtpK2MraytzKnxmdeKAjmNraW5nfNCx0LvRj9C00Yx80LHQu9GP0YLRjHzQtNC+0YXRg9GPfNC00YDQvtGH0Lh80LXQsdCw0LvQvnzQtdCx0LDRgtGMfNC9NNC10LE00Lt80L3QsNGF0YPQuXzQvdCw0YXRg9GPfNC90LXRhdGD0Ll80L3QuNGF0YPRj3zQv9C40LfQtNC1fNC/0LjQt9C00YN80L/QvtGF0YPQuXzRg9C10LHRkdGCfNGF0YPQtdGC0LB80YXRg9C10YLRg3zRhdGD0LnQvdC4fNGF0YPQudC90Y580YXRg9C50L3Rj3zRiNC70Y7RhdC4fNGR0LHQsNC90Yt8YStzaG9sZXM/fHNoK2UraSt0K3zmk43kvaDlpoh85pON5L2g5aa5fOiCj+S9oOWmiHzQsNGF0YPQtXzQtdCx0LDQu3zQtdCx0YPRgnzRgdGD0LrQsHzRhdGD0Y/QvHzRiNC70Y7RhXxGXC5VXC5DXC5LfGNob2Rlcz98Y3Vtc2hvdHxmdWNraW5nfGZ14oCOY2t8c2hpdFx3KnxzaHRwb3N0fHdobytyZT98Y3VtYmFnfGplYmFuZXx0d2F0cz980LHQu9GPfNC10LHRg3zRhdGD0Lh80YXRg9C5fNGF0YPRj3zlgrvlsYR85YK76YC8fOaTjeatu3zoh63pgLx8Y3Vtcz98ZGFmdXF8ZGnRgWt8c2ggaXR8Y29xK3xob3JlfGtvY2t8bm1zbHxzaGF0fGRpa3xmY2t8a3lzfFx3KmYrdStjK2srXHcqfFx3KmbRhtGB0Lpcdyp8XHcqc2jRlnR0eVx3KnxcdypmX3VjX2tcdyp8XHcqcHVzc3lcdyp877u/bisoW2VoaXldK3xheXxleXxpb3xbaWxdKylbYmdxJF0raD8oYSt8YWVyfGEraCt8YStyK3xlK3xlYXxlb2F8ZStyK3xpZXxpZXJ8bGV0fGxpdHxvfG9yfHIrfHV8dWh8dWhyfHUrcit8d2FyZHx5KylzKnxmW2FlXXk/Zytbb2VpdV0rdCtzP3zQtNCw0YPQvdGB0LrQsNGPfNC/0LjQtNC+0YDQsNGB0Yt8Y2hpbmdcVypjaG9uZ3M/fG7zoICh86CAoWlnZ2Vyc3xyZSt0K2E/cltkdF0rcz98dG93ZWxcVypoZWFkcz980LzQvtGB0LrQsNC70Yx80L/QuNC00L7RgNC60LB8cGFjP2soaXxpZXx5KXx0aW5nXFcqdG9uZ3M/fHRyYW5uKGllfHkpcz98d2hpdGVcVyp0cmFzaHxuaTpnZ1x3Kjpcdyp8Y2hpbihjfGspcz98a2FsdGFrbGFybGF8a2FsdGFrbGFybGF8bitpK1tncV0rcz98eWFtXFcqeWFtcz98XHcqbmlnZ2FzP3xjaGluYW1hbnM/fHBvbGFja2U/cz98dHJhbm55Y29yZXzQutCw0YbQsNC/fNGA0YPRgdC90Y980YXQvtGF0LvRi3zRhdC+0YXQvtC7fG5lZWtlcmlzP3xuaWdmaGVycz98cmVkc2tpbnM/fGJlYW5lcnM/fGNvb2xpZXM/fGN6YXJudWNofGYrYStnK3MqfGZlbmlhbnM/fGdyaW5nb3M/fG5ld2ZhZ3M/fG5pIGdnIGVyfG5pZ2dhXHcqfG5pZ2dsZXM/fG5pZ25vZ3M/fHJ1cytraXM/fHdpZ2dlcnM/fM+cYWdn0L50fGd5cHNpZXN8aW5qdW5zP3xqaWdnYXM/fG5pa2thcz98d2lnZ2FzP3zQuGlnZ2VyfFx3KmZhZ3xiZWFuZXJ8Y29vbnM/fGR5a2VzP3xmYTY2b3R8ZmFndHM/fGdvb2tzP3xneXBvcz98aG9tb3M/fGtpa2VzP3xrb2tob2x8bW9za2FsfHJlZ2dpbnxzcGljcz98eXduYmF3fOm7kemsvHxhYm9zP3xmZ3RzP3xm0LBnc3xneXBzeXxqYXBzP3x0cm9vbnx3b3BzP3xmYWd6fGbQsGd8ZkBnfFx3Kk7zoICh86CAoUlHR0XzoICh86CAoVJcdyp8XHcq0YHQstC40L3QvtGB0L7QsdCw0Lpcdyp8XHcqybTJqsmiyaLhtIfKgFx3Knxcdypu0ZZnZ9C1clx3KnxcdypOw41HR0VSXHcqfFx3Km5cXFx8Z2dlclx3KnxcdypuaWdn0LVyXHcqfFx3KkY0R0cwVFx3KnxcdypOMUdHM1Jcdyp8XHcqbmlnZ2VyXHcqfFx3KnRyYW5ueVx3KnxcdypuaWdnNFx3KnxcdypuaWdnelx3KilcYg=="
+		"CTextFilterStore_strCleanPattern_1215926338"		"KDEpXihcYihmYWsoZWR8ZXJzP3xpbmcpfGtvbXBldGVuenRlYW185rS+6YCB5ZGYfHBpbmVncm92ZXxuXC5lXC5pZ1wuZVwufGZ1a3VzaGltYXxzbmlnZ2VyfG5pZSBnZWV8ZnVrdW9rYXxmdWNoc2lhfGZ1Y2hpYW58Y29ja1wubGl8cGh1a2V0fGZ1eGl1c3xmdWN1cm98bmllZ298bmllYm98bmVpZ2V8bmVnZ3l8bmViYnl8ZnV4aXN8Y3dmYWd8cHViZ3xuaWJ5fG5lYnV8bmVib3xmdWt1fGZ1a2l8ZmFrdHxnMjR8ZmNyfFx3KmZ2Y2h2b1x3KilcYikk"
+		"ChatStorePopupState_1215926338"		"{\"bFriendsListVisible\":false,\"always_restore\":false,\"bFriendsListCollapsed\":false}"
+	}
+	"system"
+	{
+		"PushToTalkKey"		"0"
+		"InGameOverlayRestoreBrowserTabs"		"0"
+		"InGameOverlayScreenshotNotification"		"0"
+		"InGameOverlayScreenshotPlaySound"		"0"
+		"displayratesasbits"		"0"
+		"NetworkingAllowShareIP"		"1"
+		"EnableGameOverlay"		"0"
+	}
+	"AppInfoChangeNumber"		"25225229"
+	"CloudKey"		"010000001c3af8a234b26dd75002fdc1a77542b87b3387b90adc9dcb87e83991af0e14ec0a82de22"
+	"CloudKeyCRC"		"47636338"
+	"news"
+	{
+		"NotifyAvailableGames"		"0"
+	}
+	"LibraryDisplaySize"		"2"
+	"LibraryLowBandwidthMode"		"1"
+	"LibraryLowPerfMode"		"1"
+	"LibraryDisableCommunityContent"		"1"
+	"LibraryDisplayIconInGameList"		"1"
+	"ReadyToPlayIncludesStreaming"		"0"
+	"SteamController_PSSupport"		"0"
+	"CSettingsPanelGameController.Timeout"		"9999"
+	"Controller_CheckGuideButton"		"0"
+	"RecentLocalPlayedGameIDs"		"da020000000000008f98e5660000a2cc"
+	"nettickets"
+	{
+		"730"		"010000001d23501119cff40e5842954a5886ad88bc2016bdaeb28389e2690d5404157e0ded4e1d0c0bf92e602c3f901e7f4b5c391d3ee9e5fd8f47524f76c0aa58103ee055d97f0ca562132113d9519c2660ff47c2227a72f59dd95931dfcc06b86be8e87b7632ae935349f16080e118a9a47457b027313e3c7b3fd2ab9a03a2dcad0c45a4509943d1fed0557d2759a3848c4f56751ddc380f1ba0ec4129ceeff8616966096b1fae0859097ff4b6afef527ec03ccc6426dcd5318e713d0f86bebe5fb71bc9443b706a63bf4109a468a5170c6d5089f95c9295843fd34cfd4abd4cd02ca95d6473d0f33f9d5635383f07503ecd6545ba0194c15f2c"
+	}
+	"UserAppConfig"
+	{
+		"730"		"0055736572436f6e66696700016c616e677561676500656e676c697368000144697361626c6564444c4300323237393732312c32323739373230000808"
+	}
+	"apps"
+	{
+		"730"
+		{
+			"UseSteamControllerConfig"		"0"
+			"SteamControllerRumble"		"-1"
+			"SteamControllerRumbleIntensity"		"320"
+		}
+	}
+	"PeerContent"
+	{
+		"ClientMode"		"0"
+		"ServerMode"		"0"
+	}
+	"ControllerTypesUsed"		"controller_xbox360,"
+	"controller_registration"
+	{
+		"46d-c21d-48799042_12345678"
+		{
+			"1215926338"
+			{
+				"registration_complete"		"1"
+			}
+		}
+	}
+	"controller_config"
+	{
+		"730"
+		{
+			"usetime"		"243.668914794921875"
+		}
+	}
+}
