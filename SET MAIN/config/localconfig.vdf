@@ -29,7 +29,7 @@
 						{
 							"last_sync_state"		"conflictingchanges"
 						}
-						"LaunchOptions"		"-high -novid -nojoy +fps_max 0 +violence_hblood 0 -console -threads 9"
+						"LaunchOptions"		"-high -novid -nojoy +fps_max 0 +violence_hblood 0 -console -threads 5"
 						"autocloud"
 						{
 							"lastlaunch"		"1731251335"
