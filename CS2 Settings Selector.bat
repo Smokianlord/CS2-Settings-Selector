@@ -8,22 +8,43 @@ echo 5. SKIN INSPECT
 
 set /p choice=Enter your choice (1/2/3/4/5): 
 
+:: Get the path of the current directory where the script is located
+set "baseFolder=%~dp0..\CSGO Settings"
+
 if %choice%==1 (
-    echo Applying MAIN...
-    for /D %%a in ("C:\\Program Files (x86)\\Steam\\userdata\\*.*") do xcopy /b/v/y "D:\\Games\\Games Essentials\\CSGO Settings\\SET MAIN" "%%a\\" /sei
+    set settingFolder=SET MAIN
 ) else if %choice%==2 (
-    echo Applying TRYHARD...
-    for /D %%a in ("C:\\Program Files (x86)\\Steam\\userdata\\*.*") do xcopy /b/v/y "D:\\Games\\Games Essentials\\CSGO Settings\\SET TRYHARD" "%%a\\" /sei
+    set settingFolder=SET TRYHARD
 ) else if %choice%==3 (
-    echo Applying FARM...
-    for /D %%a in ("C:\\Program Files (x86)\\Steam\\userdata\\*.*") do xcopy /b/v/y "D:\\Games\\Games Essentials\\CSGO Settings\\SET FARMING" "%%a\\" /sei
+    set settingFolder=SET FARMING
 ) else if %choice%==4 (
-    echo Applying ARMSRACE...
-    for /D %%a in ("C:\\Program Files (x86)\\Steam\\userdata\\*.*") do xcopy /b/v/y "D:\\Games\\Games Essentials\\CSGO Settings\\SET ARMSRACE" "%%a\\" /sei
+    set settingFolder=SET ARMSRACE
 ) else if %choice%==5 (
-    echo Applying SKIN INSPECT...
-    for /D %%a in ("C:\\Program Files (x86)\\Steam\\userdata\\*.*") do xcopy /b/v/y "D:\\Games\\Games Essentials\\CSGO Settings\\SET SKIN INSPECT" "%%a\\" /sei
+    set settingFolder=SET SKIN INSPECT
 ) else (
     echo Invalid choice. Exiting...
+    pause
+    exit /b
 )
+
+:: Debugging: Print the full path to verify
+echo Full path to the setting folder: %baseFolder%\%settingFolder%
+
+:: Check if the folder exists
+if not exist "%baseFolder%\%settingFolder%" (
+    echo ERROR: The folder "%baseFolder%\%settingFolder%" was not found!
+    pause
+    exit /b
+)
+
+:: Print the path being used for confirmation
+echo Applying %settingFolder%...
+echo Copying from: %baseFolder%\%settingFolder%
+
+:: Loop through each Steam userdata folder and copy the selected setting
+for /D %%a in ("C:\\Program Files (x86)\\Steam\\userdata\\*.*") do (
+    xcopy /b /v /y "%baseFolder%\%settingFolder%" "%%a\\" /s /e >nul
+    echo Settings applied to: %%a
+)
+
 pause
