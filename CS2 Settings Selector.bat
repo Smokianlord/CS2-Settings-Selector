@@ -9,7 +9,7 @@ echo 5. SKIN INSPECT
 set /p choice=Enter your choice (1/2/3/4/5): 
 
 :: Get the path of the current directory where the script is located
-set "baseFolder=%~dp0..\CSGO Settings"
+set "baseFolder=%~dp0..\CS2-Settings-Selector"
 
 if %choice%==1 (
     set settingFolder=SET MAIN
