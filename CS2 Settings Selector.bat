@@ -67,4 +67,3 @@ for /D %%a in ("C:\\Program Files (x86)\\Steam\\userdata\\*") do (
 echo ==========================================
 echo Settings applied successfully!
 echo ==========================================
-pause
