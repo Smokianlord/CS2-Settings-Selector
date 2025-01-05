@@ -1,7 +1,7 @@
 "video.cfg"
 {
-	"setting.defaultres"		"960"
-	"setting.defaultresheight"		"540"
+	"setting.defaultres"		"948"
+	"setting.defaultresheight"		"711"
 	"setting.refreshrate_numerator"		"0"
 	"setting.refreshrate_denominator"		"0"
 	"setting.fullscreen"		"0"
@@ -31,4 +31,5 @@
 	"setting.shaderquality"		"0"
 	"setting.aspectratiomode"		"0"
 	"setting.videocfg_dynamic_shadows"		"0"
+	"setting.monitor_index"		"0"
 }
