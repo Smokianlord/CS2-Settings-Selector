@@ -22,9 +22,9 @@
 					}
 					"730"
 					{
-						"LastPlayed"		"1736109433"
-						"Playtime2wks"		"363"
-						"Playtime"		"276307"
+						"LastPlayed"		"1736807825"
+						"Playtime2wks"		"298"
+						"Playtime"		"14298"
 						"cloud"
 						{
 							"last_sync_state"		"conflictingchanges"
@@ -32,10 +32,10 @@
 						"LaunchOptions"		"-window -w 864 -h 486 +fps_max 30 -nosound -nojoy +r_drawparticles 0 +mat_disable_fancy_blending 1 -nohltv -forcenovsync +violence_hblood 0 +r_dynamic 0 -novid"
 						"autocloud"
 						{
-							"lastlaunch"		"1736109351"
-							"lastexit"		"1736109432"
+							"lastlaunch"		"1736807775"
+							"lastexit"		"1736807824"
 						}
-						"BadgeData"		"12000000086512060805100118001206080110011801"
+						"BadgeData"		"020000000802"
 						"DisableUpdatesUntil"		"0"
 					}
 					"760"
@@ -44,8 +44,8 @@
 						{
 							"quota_bytes"		"20000000000"
 							"quota_files"		"50000"
-							"used_bytes"		"47574652"
-							"used_files"		"376"
+							"used_bytes"		"0"
+							"used_files"		"0"
 						}
 					}
 					"2371090"
@@ -168,8 +168,8 @@
 						}
 						"autocloud"
 						{
-							"lastlaunch"		"1736109352"
-							"lastexit"		"1736109432"
+							"lastlaunch"		"1736807776"
+							"lastexit"		"1736807824"
 						}
 					}
 					"70"
@@ -1641,8 +1641,8 @@
 						"Playtime"		"18"
 					}
 				}
-				"LastPlayedTimesSyncTime"		"1736107756"
-				"PlayerLevel"		"101"
+				"LastPlayedTimesSyncTime"		"1736334535"
+				"PlayerLevel"		"2"
 			}
 		}
 	}
@@ -1667,9 +1667,9 @@
 			"avatar"		"fb3f1340914e27205c280024e300d68ef2a9a400"
 			"name"		"Sage"
 		}
-		"PersonaName"		"Smokianlord"
-		"communitypreferences"		"18bfc7faff052000280330013800"
-		"contentdescriptorpreferences"		""
+		"PersonaName"		"Despicable Madarchod"
+		"communitypreferences"		"18002000280130013800"
+		"contentdescriptorpreferences"		"0a0208010a0208030a020804"
 		"1250880903"
 		{
 			"name"		"Astra"
@@ -3486,32 +3486,104 @@
 			"tag"		"CSGO_Market"
 			"avatar"		"8bed9fb9653932e8e1721865e308d47a632fb412"
 		}
+		"355964335"
+		{
+			"name"		"Nine T 2"
+			"NameHistory"
+			{
+				"0"		"Nine T 2"
+			}
+			"avatar"		"8bf3f8b1123da1c920824ef84f66160e6daa137c"
+		}
+		"1714839611"
+		{
+			"name"		"miniketmojammel"
+			"NameHistory"
+			{
+				"0"		"miniketmojammel"
+			}
+			"avatar"		"a9ffac217b5b2185079782a0214503af6c05ead1"
+		}
+		"1610671802"
+		{
+			"name"		"madarauchiha"
+			"NameHistory"
+			{
+				"0"		"madarauchiha"
+			}
+			"avatar"		"0f33ceec2081ddcaca1ed83511fb9c5621b5e4ca"
+		}
+		"1215534495"
+		{
+			"name"		"Nope"
+			"NameHistory"
+			{
+				"0"		"Nope"
+			}
+			"avatar"		"c2a9efabb9674c1085bbb6df7abd4e7bb7fdd3bd"
+		}
+		"1691819785"
+		{
+			"name"		"LaL_TomatoO"
+			"NameHistory"
+			{
+				"0"		"LaL_TomatoO"
+			}
+			"avatar"		"308c11eea20da9683741d7e3ad88f064364edc48"
+		}
+		"884808460"
+		{
+			"name"		"Angel Priya"
+			"NameHistory"
+			{
+				"0"		"Angel Priya"
+			}
+			"avatar"		"04612d9aad931a8a9f18f6182107fe4ae9ea6694"
+		}
+		"1198494057"
+		{
+			"name"		"SmokianNotorious"
+			"NameHistory"
+			{
+				"0"		"SmokianNotorious"
+			}
+			"avatar"		"057ca0eec2660bc02c6dca40cd5248ef068cc4bf"
+		}
+		"1692367926"
+		{
+			"name"		"bsoldier400"
+			"NameHistory"
+			{
+				"0"		"bsoldier400"
+			}
+			"avatar"		"3ee6c8602459a2ad6a3f5a7f952fed1531956bb9"
+		}
 	}
 	"ParentalSettings"
 	{
-		"settings"		"09022c75110000000010011a0f426c6f636b20616c6c2067616d65732a0608b2854b100130063a08df9f8558dcb1007542200a6da07ced654f7a54196bbab35e2524faa070d0a3d53a97e0f18d8cbf30dc1148015080205a1673686f777261767a616d616e40676d61696c2e636f6d680070007a5d10007a0b08ffffffffffff3f10a00b7a0b08ffffffffffff3f10a00b7a0b08ffffffffffff3f10a00b7a0b08ffffffffffff3f10a00b7a0b08ffffffffffff3f10a00b7a0b08ffffffffffff3f10a00b7a0b08ffffffffffff3f10a00b8201009801079801c4a70f9801c292149801eef01598019aaf169801a8b134980194db3a9801eeb0409801e0ab419801c0f94398019096489801f0fe4b980186f45498018ad7569801ce955b9801e2b8609801beb1639801e89b739801848885019801aeac8f019801e29fab01"
-		"Signature"		"64f90cd36d53a432015b5f4ed645ba4b895e986919aeb9c8a84fc999098370e43d76ecd3b189e2f1fd9a664df430f5c2c9ac66258caf76f210b5580601f07da24b04cbd9df45357f377dc5935d201cbeb02ad3589d6c1c03d4919c6f0e5c838a8a4dfd6d58449eef486b4ca38b7e64afc4fad81a72d1dcccc129d210a78bc1d27940a3b2069d936f09d2e4cf44fe7bf5557d6560100671520c8263b43018637e9a9d1b3e9105f09fc04e2107265556ffa94f6fd45d07373c3a2709c76a84d5a99209dd888e70abfb2bed8eeec9cc85ca8567d2d2f76d3d767faa0c01ad09573da3b1ea54d9eae517b25d2e37a58dcafadf245b9aac8cbaa1cb0949c3bf94f35a"
+		"settings"		"09284a3548000000004800"
+		"Signature"		"a86d9fb66a0882acff2352c14d6107567884370c4e9d892594f418668b6700a20bc56a3538b3f94d7c5d40b6bfa7181c3295a07e9362ceb9027a50e28a0075d538efbdb385197bdb239fe05fd41c09c755781965a1af50f02da45c1b63733db5505fe67645cd10855bddcbd9a148b1105e175cb85760c651eebc7eba5e0bf4f108928cc0598387ebcbaff2149f72d18952eb4f10f0523c2d1fa6a2bc7cd47de572096be98b95bb28294b2d5306993e2ad9c81ed41aa273785ed42872496453a141fd3c4e52a62660362fa0a136f240f0a396d4a32e58105b0ecfba51c5864ba1022944b972a98170e5689bd5f34fe4098cd8f404936f1e44c06c53efe0788c5f"
 	}
 	"SharedAuth"
 	{
-		"id"		"1231713843"
-		"AuthData"		"253eaef27ac248669940187aaedc0e082af4c9973e09b96bf0d526aff01a1381"
+		"id"		"1103352551"
+		"AuthData"		"a22ae3d26d38a2318543fac048f25be6f13148930768f0ee987bdf255ed37c28"
 	}
 	"Offline"
 	{
-		"Ticket"		"0882d8d48b01155ee97a67"
-		"Signature"		"90f440394fd7c05540e7d049fe5206a5714a61bc49180b480b1a39bbca2f35c070706e840e96d153292f2fa4843474ba4ef3e6e1421bfc9fd05a28b88263d334b20f24cec8527f914d6cb899c0ee7ac565a7f50c9961b0ce8c337ff91d5931678a07f002639e36dd25457ccd6b1a92db979103f86cc92064f980d44b09566c8e1958092c655f66ea96d022b99a3b461dfd055d4cac0ae7d30c0947a1253ddc3146095eb12838a865d03d65aa817bf47f8c34109d3b40ed3adc11c8bb7b202d96299f39de69d336eaa9c044fe4e87b7b7f4ddd90fdbe79bf0cc0209fbf055eff8871450a819ac13fd13d43bea49f6bec020c81d2ddc25a71ca3ea0df351ad5864"
-		"EncryptedTicket"		"0a20e829d9aa68484978ee690fb4dc2b7c32c219ffb732e5247b44d9b5186b0abc1a12800290f440394fd7c05540e7d049fe5206a5714a61bc49180b480b1a39bbca2f35c070706e840e96d153292f2fa4843474ba4ef3e6e1421bfc9fd05a28b88263d334b20f24cec8527f914d6cb899c0ee7ac565a7f50c9961b0ce8c337ff91d5931678a07f002639e36dd25457ccd6b1a92db979103f86cc92064f980d44b09566c8e1958092c655f66ea96d022b99a3b461dfd055d4cac0ae7d30c0947a1253ddc3146095eb12838a865d03d65aa817bf47f8c34109d3b40ed3adc11c8bb7b202d96299f39de69d336eaa9c044fe4e87b7b7f4ddd90fdbe79bf0cc0209fbf055eff8871450a819ac13fd13d43bea49f6bec020c81d2ddc25a71ca3ea0df351ad586418062208d571958231c8886728043208ec1457db82ee8649"
-		"EncryptedSignature"		"90f440394fd7c05540e7d049fe5206a5714a61bc49180b480b1a39bbca2f35c070706e840e96d153292f2fa4843474ba4ef3e6e1421bfc9fd05a28b88263d334b20f24cec8527f914d6cb899c0ee7ac565a7f50c9961b0ce8c337ff91d5931678a07f002639e36dd25457ccd6b1a92db979103f86cc92064f980d44b09566c8e1958092c655f66ea96d022b99a3b461dfd055d4cac0ae7d30c0947a1253ddc3146095eb12838a865d03d65aa817bf47f8c34109d3b40ed3adc11c8bb7b202d96299f39de69d336eaa9c044fe4e87b7b7f4ddd90fdbe79bf0cc0209fbf055eff8871450a819ac13fd13d43bea49f6bec020c81d2ddc25a71ca3ea0df351ad5864"
+		"Ticket"		"08a894d5c1041555958567"
+		"Signature"		"6dc811fa95dc448c65bb5e2113325cb3185f98998e09e601ec71e47a1cafc4926c467226eb4eba0ecc2a6548483966504af3e4a4add6f9223365e62018504e81a7176568d23049503f86439a1d8838c264a99cb3763eebb28ee3521b6d06f3b7b2aa5237244521945b79fd25a3e82c7a301a94ea52669b5e766d312084bd2871b831bfe9bb122df374c088a8788b1f1740c870f219aa76d9f24302d098ce889e263569f317f967b5fe573169ba3bdb98f13c9da8f86b986bd9ec5a73e65e0d42a095580ed4b4ab359472a4aed447486761960e8c3290ebcd6b020f5f2fa8a88889c1fe9d720bb3e213498292e49b7313c3dc98e48be2ec555b0e4ab7626d5836"
+		"EncryptedTicket"		"0a20adaa736965674462815304fe430e93c73e5218b405a8bb6771e8932c778a06ef1280026dc811fa95dc448c65bb5e2113325cb3185f98998e09e601ec71e47a1cafc4926c467226eb4eba0ecc2a6548483966504af3e4a4add6f9223365e62018504e81a7176568d23049503f86439a1d8838c264a99cb3763eebb28ee3521b6d06f3b7b2aa5237244521945b79fd25a3e82c7a301a94ea52669b5e766d312084bd2871b831bfe9bb122df374c088a8788b1f1740c870f219aa76d9f24302d098ce889e263569f317f967b5fe573169ba3bdb98f13c9da8f86b986bd9ec5a73e65e0d42a095580ed4b4ab359472a4aed447486761960e8c3290ebcd6b020f5f2fa8a88889c1fe9d720bb3e213498292e49b7313c3dc98e48be2ec555b0e4ab7626d5836180622089a730cd8f130c8c328043208295b717a990fbc6a"
+		"EncryptedSignature"		"6dc811fa95dc448c65bb5e2113325cb3185f98998e09e601ec71e47a1cafc4926c467226eb4eba0ecc2a6548483966504af3e4a4add6f9223365e62018504e81a7176568d23049503f86439a1d8838c264a99cb3763eebb28ee3521b6d06f3b7b2aa5237244521945b79fd25a3e82c7a301a94ea52669b5e766d312084bd2871b831bfe9bb122df374c088a8788b1f1740c870f219aa76d9f24302d098ce889e263569f317f967b5fe573169ba3bdb98f13c9da8f86b986bd9ec5a73e65e0d42a095580ed4b4ab359472a4aed447486761960e8c3290ebcd6b020f5f2fa8a88889c1fe9d720bb3e213498292e49b7313c3dc98e48be2ec555b0e4ab7626d5836"
 	}
 	"apptickets"
 	{
-		"7"		"3200000004000000022c7511010010010700000076fd8cc0bc6ea8c0000000005ee97a67de9896670100000000000000000078c2771987286a7521ef59c7d0e4ec57ecc6b239c30257a1dda4c11b9e431de2921aba18ae4cad9649ba320866cbfa3b7abbfd8485a1c270c9defe19621ce018de0d84fdc4984be2d998788596cd0cc53005907535bc5eec729640a08163cc15663589de2ec6d6a78291d6fa1953290c54553873d17b920e09318ce710b637c4"
+		"7"		"3200000004000000284a3548010010010700000075fd8cc0bc6ea8c00000000055958567d544a16701000000000000000000dcad646c6277f48e5c0b98b44f27e19a8d19f9040600a12594722a0d7531603e1e7867ab224fea0be3f5ad13dc44e8c21bf48ee5e210513f169a7d00c32a98ad385a018a16796c15c02430af24ed4befed0a65d385cd9ffee4f2bb8f502554292f7918565f9891b4cdd509a629ef4bd7d88625b7666299cf8d07bad435f5ceb3"
 		"440"		"3200000004000000e6a7924a01001001b801000075fd8cc09500a8c0000000001a1260669ac17b66010000000000000000005128566860f828b37b9de65817f127a8539bd40aade516b2293794ba8c099d6f0df0292559894b38f4dfc57ffa9f6e3b72461ed7a610eb829e7978e24b3e90ffc918bdae87483bc99c90438d82fc1e17d92f42188586c3297b705bbec67c67eae5d300ee6c31201500d094772f5a1f7cf7b897199cd26c01d44b7404dc90acfe"
-		"730"		"5000000004000000022c751101001001da02000076fd8cc0bc6ea8c0000000002de57a67ad94966701000dd300000500e40200000000b4880900000028c92200000029c92200000066df2800000000005d7a28d9850bf0febf05bc5fa3f6544231d654f63b395d1652c9a516370f9e15f6983fd7ff351bdd220442945cac2c5d0df3d8e9d96862bcf1ac8cdcaf06d87aa7d349f500a555fe220aeb683ed4918036910604c9c2843cc7a43984ee621495998bcf8c9088d0e313cc5c576b131da45cf6d2893471901bfc9c2e53ed115c46"
-		"2279720"		"3200000004000000022c75110100100128c9220076fd8cc0bc6ea8c0000000002de57a67ad94966701000dd3000000000000a33610a6490dbcec26ba2ff76bc77d8a01b0c4fe29b1a9a8edab4e8bcaf0657b237bb3b9218bd038b8681d1a9697f04c4e03dce2b9b5f707590a4a22f30273527569a53c74cc9e4d81ce2220587ce9c2a44b98d627a2ea1fff204db0ed9361fc91ef80e424f64283dcdfd04ce3f270240aba53e10d6eaa177c9e45c006e3dabc"
-		"2279721"		"3200000004000000022c75110100100129c9220076fd8cc0bc6ea8c0000000002de57a67ad94966701000dd3000000000000da593baa42740493a9d0903e1254bf6431570fae7343417cd3ce3ef27961e558710055824e470bd7a18f122b5229fe6246518b5be2558ece67318ad8ef94b71e32b840600515f9b7b7ede37e89e2ab1b4d79bc58312338be64a5646fb13addc8f421b4f7989f20e52923bda162a45718ca4d4957a90e496b43a154db7371e09b"
-		"228980"		"3200000004000000022c751101001001747e030076fd8cc0bc6ea8c0000000002fe57a67af9496670100000000000000000076ed2ae680fdc1dfdadaef2dbf001c4605b4874766c1d028cee259fa7e105a3321b7b4a0d55af2688335996b52eafe33976f10a33c4f101a5319e69a48580450f46dfb9d5ac37393555c26c7bf05de1fee37ad7d897255e58d5ed346d87d573c9e4839083769085482c608f4f569cf4f9e8140f60d3c59f131414b0dc76f44f6"
+		"730"		"4a00000004000000284a354801001001da02000075fd8cc0bc6ea8c00000000055958567d544a16701000dd300000400e40200000000b4880900000028c92200000029c9220000000000a8292bc812e9543ec42f192dfd9fd8e565280d02242d816c621f0bb9c64ff6e3a4d915b18907e914cc7a5b7cc089975d800c2d9e3da84baafcaf1fc01ed4c20e76978aa9df93188926da268fe5ed2993c53c3c9be76f6f4897ac169ea7380d7b627a1a1412bad2be3d92812f74ce9785dd40e24cf9ca19d02478c7b0d9da13fd"
+		"2279720"		"3200000004000000284a35480100100128c9220075fd8cc0bc6ea8c00000000055958567d544a16701000dd30000000000004712b0c5f718c7811094a07dab230797fefea622b158c23297ce22ff4ae1310cdecf6186aaa645233fa856e1917d92e1d1d29ffc45db9d885c917b6c8b7d2d39292d3fa722285bebae9b0e46bbcb54b994886ef5bdf7d2156a7a06369a632bcc2a1381df62b84382050b5cf2c8c1484a71c7d7393854ce9ce0c98bfe457d6b0f"
+		"2279721"		"3200000004000000284a35480100100129c9220075fd8cc0bc6ea8c00000000055958567d544a16701000dd300000000000040c9cc117df3af41142eaffc43b7ac96700fb74b0a96a71ed622fd5205dcd98828f601a2c896ee7c3c515aaec757ca3069ab244ea696397c54875a05e580fff9342a6c4004f8147e178b34efb30bcba697a88ed6b463d23ba4638d4a967043842c3ab0cfdfa0545591243dbc53f172841a63287df52fff8e36cc3ee3aec6f1fe"
+		"228980"		"3200000004000000284a354801001001747e030075fd8cc0bc6ea8c00000000055958567d544a16701000000000000000000676a4acbf280f0fcac077bab7d29ba36a8e2bf49fabbeab57c63a7a5900038120b358459c22e7afa2f29d927a80f79a87c6e5b9739aadd2c9a920e8f493868c1ebdef9c53ef656995216f9f57b54b97f62750de7d78c15f00889c9388b0fc9ae1b908cb2552a1ca6ee655fd1e06217d5fbe1f7920f6206277e39f26034f63278"
 		"550"		"3800000004000000022c7511010010012602000076fd8cc0bc6ea8c0000000002de57a67ad9496670100b109000001008c66030000000000710fd7fec970e3e10507a981fa832d8820bf56892789427bd01a6cb4a2bf23367c009d2051798649b1ddf6ff2a8eb6862401b16c3240f596d58c9e5024a8761a53bbb0a422326f6fcfbe464791a753d18fa4914b814a8e09f313a3b12a0a1f649ee0d7d2d757f857504824b78ecab9f89ffb96d4e2a6c22da57734a3f9afa13f"
 		"3590"		"3200000004000000022c751101001001060e000076fd8cc0bc6ea8c0000000002de57a67ad9496670100420600000000000094775692e713b2dbd4fb2f5ca2ce7c1a89598e61db4c789f9009c48cf485cc3995a2db47ddb9b51dc67ca564a305f002da229cd819fcad5b2ab8abcb3a60dd7a44a6c1a2edeefc438b1cfb6cb5772df76cbeccc3447a74ad19ab383c549490e8412e4f0b8ab8914106c66a4b3e260b1ac79ad3aa69644d05e7708e63c35414ec"
 		"4000"		"3200000004000000022c751101001001a00f000076fd8cc0bc6ea8c0000000002de57a67ad9496670100da00000000000000cf0e451f86ae69246fcecc678cadb6e46a886a6fc160935912844a01459d25658ddce22281993aca7802b7d43dfb7b327df40664ba712f63b6aa1c0d3dd5e12b3fefbeddddd98ef87c0001813b0bbcdc4a108a0d397a1c198cc0ff44c488a959c96be73dc59c7607dafdc93069b1804e405b690fd2f104ed199d6e52662b1b21"
@@ -3682,13 +3754,13 @@
 		"keyboard_initial_location_desktop"		"\"center-bottom\""
 		"keyboard_initial_location_overlay"		"\"center-bottom\""
 		"SteamVoiceSettings_1250839534"		"{\"inputGain\":1,\"outputGain\":1,\"noiseGateLevel\":2,\"noiseCancellation\":true,\"echoCancellation\":true,\"autoGainControl\":true,\"selectedMic\":\"default\",\"selectedOutput\":\"default\",\"pttSoundsEnabled\":true,\"hasResetOpenMicHotKey\":true}"
-		"CachedStorePreferences"		"{\"eReviewScorePreference\":0,\"content_descriptor_preferences\":{\"content_descriptors_to_exclude\":[]},\"provide_deck_feedback\":2}"
-		"CachedCommunityPreferences"		"{\"bParenthesizeNicknames\":false,\"eTextFilterSetting\":3,\"bTextFilterIgnoreFriends\":true,\"content_descriptor_preferences\":{\"content_descriptors_to_exclude\":[]}}"
-		"CachedNotificationPreferences"		"[{\"notification_type\":2,\"notification_targets\":11},{\"notification_type\":3,\"notification_targets\":0},{\"notification_type\":4,\"notification_targets\":0},{\"notification_type\":5,\"notification_targets\":11},{\"notification_type\":6,\"notification_targets\":0},{\"notification_type\":8,\"notification_targets\":0},{\"notification_type\":9,\"notification_targets\":11},{\"notification_type\":11,\"notification_targets\":11},{\"notification_type\":12,\"notification_targets\":0},{\"notification_type\":15,\"notification_targets\":0},{\"notification_type\":16,\"notification_targets\":0},{\"notification_type\":17,\"notification_targets\":0},{\"notification_type\":18,\"notification_targets\":0},{\"notification_type\":19,\"notification_targets\":0},{\"notification_type\":20,\"notification_targets\":11},{\"notification_type\":21,\"notification_targets\":11},{\"notification_type\":22,\"notification_targets\":0}]"
+		"CachedStorePreferences"		"{\"eReviewScorePreference\":0,\"content_descriptor_preferences\":{\"content_descriptors_to_exclude\":[{\"content_descriptorid\":3,\"timestamp_added\":0},{\"content_descriptorid\":4,\"timestamp_added\":0}]},\"provide_deck_feedback\":0}"
+		"CachedCommunityPreferences"		"{\"bParenthesizeNicknames\":false,\"eTextFilterSetting\":1,\"bTextFilterIgnoreFriends\":true,\"content_descriptor_preferences\":{\"content_descriptors_to_exclude\":[{\"content_descriptorid\":1},{\"content_descriptorid\":3},{\"content_descriptorid\":4}]}}"
+		"CachedNotificationPreferences"		"[{\"notification_type\":2,\"notification_targets\":11},{\"notification_type\":3,\"notification_targets\":1},{\"notification_type\":4,\"notification_targets\":1},{\"notification_type\":5,\"notification_targets\":11},{\"notification_type\":6,\"notification_targets\":11},{\"notification_type\":8,\"notification_targets\":3},{\"notification_type\":9,\"notification_targets\":11},{\"notification_type\":11,\"notification_targets\":3},{\"notification_type\":12,\"notification_targets\":11},{\"notification_type\":15,\"notification_targets\":11},{\"notification_type\":16,\"notification_targets\":11},{\"notification_type\":17,\"notification_targets\":11},{\"notification_type\":18,\"notification_targets\":11},{\"notification_type\":19,\"notification_targets\":11},{\"notification_type\":20,\"notification_targets\":11},{\"notification_type\":21,\"notification_targets\":11},{\"notification_type\":22,\"notification_targets\":11}]"
 		"CTextFilterStore_TextFilterPreferences"		"{\"bIgnoreFriends\":true,\"eTextFilterSetting\":1}"
 		"CTextFilterStore_TextFilterWords"		"KDEpeyJ0ZXh0X2ZpbHRlcl9jdXN0b21fYmFubmVkX3dvcmRzIjpbXSwidGV4dF9maWx0ZXJfY3VzdG9tX2NsZWFuX3dvcmRzIjpbXX0="
-		"playnextstore_storage"		"{\"nVersion\":3,\"cachedPlayNext\":{\"last_update_time\":1726248398,\"appids\":[]},\"rgIgnoredApps\":[]}"
-		"trendingstore_storage"		"{\"version\":2,\"data\":[{\"appid\":730,\"rgAccountIDs\":[1581398357,413048665,1024586919,452255636,425308485,321069363,1540825101,1074169241],\"totalFriends\":88},{\"appid\":252490,\"rgAccountIDs\":[1163713199,162889130],\"totalFriends\":2},{\"appid\":578080,\"rgAccountIDs\":[1581398357,1128243581,859181022,878675717,105694352,415811542,1540825101,885726538],\"totalFriends\":16},{\"appid\":2669320,\"rgAccountIDs\":[438315774,303435223,313107539],\"totalFriends\":3},{\"appid\":2767030,\"rgAccountIDs\":[206894267,1166297824,836270214,205220801,259465883,1077566635,162889130,962795144],\"totalFriends\":13},{\"appid\":2507950,\"rgAccountIDs\":[885726538,962795144,1513224761,75999797,341387875,206894267,293027556,433358723],\"totalFriends\":8},{\"appid\":812140,\"rgAccountIDs\":[415811542],\"totalFriends\":1},{\"appid\":570,\"rgAccountIDs\":[1540825101,1026278656],\"totalFriends\":2},{\"appid\":1665460,\"rgAccountIDs\":[259465883,1020441781],\"totalFriends\":2},{\"appid\":1203220,\"rgAccountIDs\":[1513224761],\"totalFriends\":1},{\"appid\":526870,\"rgAccountIDs\":[882670381],\"totalFriends\":1},{\"appid\":1462040,\"rgAccountIDs\":[162889130],\"totalFriends\":1},{\"appid\":814380,\"rgAccountIDs\":[1513224761,1112077166],\"totalFriends\":2},{\"appid\":319630,\"rgAccountIDs\":[1457574906],\"totalFriends\":1},{\"appid\":1643320,\"rgAccountIDs\":[1131001453],\"totalFriends\":1},{\"appid\":1997040,\"rgAccountIDs\":[259465883],\"totalFriends\":1},{\"appid\":236390,\"rgAccountIDs\":[882670381],\"totalFriends\":1},{\"appid\":2695940,\"rgAccountIDs\":[415811542,1457574906],\"totalFriends\":2},{\"appid\":227300,\"rgAccountIDs\":[837402218,430501605,885726538],\"totalFriends\":3},{\"appid\":383150,\"rgAccountIDs\":[259465883],\"totalFriends\":1},{\"appid\":1404210,\"rgAccountIDs\":[1026278656],\"totalFriends\":1},{\"appid\":2537590,\"rgAccountIDs\":[1039347168],\"totalFriends\":1},{\"appid\":284160,\"rgAccountIDs\":[882670381],\"totalFriends\":1},{\"appid\":3097560,\"rgAccountIDs\":[923657652],\"totalFriends\":1},{\"appid\":1496790,\"rgAccountIDs\":[259465883],\"totalFriends\":1},{\"appid\":306130,\"rgAccountIDs\":[259465883],\"totalFriends\":1},{\"appid\":3231090,\"rgAccountIDs\":[882670381],\"totalFriends\":1},{\"appid\":307670,\"rgAccountIDs\":[259465883],\"totalFriends\":1},{\"appid\":312610,\"rgAccountIDs\":[259465883],\"totalFriends\":1},{\"appid\":366250,\"rgAccountIDs\":[259465883],\"totalFriends\":1},{\"appid\":960990,\"rgAccountIDs\":[259465883],\"totalFriends\":1},{\"appid\":230230,\"rgAccountIDs\":[259465883],\"totalFriends\":1},{\"appid\":373420,\"rgAccountIDs\":[259465883],\"totalFriends\":1},{\"appid\":250180,\"rgAccountIDs\":[259465883],\"totalFriends\":1},{\"appid\":418460,\"rgAccountIDs\":[259465883],\"totalFriends\":1},{\"appid\":2679460,\"rgAccountIDs\":[162889130],\"totalFriends\":1},{\"appid\":550,\"rgAccountIDs\":[259465883],\"totalFriends\":1},{\"appid\":2073850,\"rgAccountIDs\":[1131001453],\"totalFriends\":1},{\"appid\":2835570,\"rgAccountIDs\":[1057350325,923657652,1457574906],\"totalFriends\":3},{\"appid\":553850,\"rgAccountIDs\":[1081495947],\"totalFriends\":1},{\"appid\":945360,\"rgAccountIDs\":[1513224761,1107730218],\"totalFriends\":2},{\"appid\":203160,\"rgAccountIDs\":[433358723],\"totalFriends\":1},{\"appid\":976310,\"rgAccountIDs\":[882670381,413048665],\"totalFriends\":2},{\"appid\":270880,\"rgAccountIDs\":[837402218],\"totalFriends\":1},{\"appid\":813780,\"rgAccountIDs\":[923657652],\"totalFriends\":1},{\"appid\":720250,\"rgAccountIDs\":[923657652],\"totalFriends\":1},{\"appid\":2195250,\"rgAccountIDs\":[341387875],\"totalFriends\":1},{\"appid\":2527520,\"rgAccountIDs\":[1457574906],\"totalFriends\":1},{\"appid\":1938090,\"rgAccountIDs\":[162889130],\"totalFriends\":1},{\"appid\":1085660,\"rgAccountIDs\":[363011282],\"totalFriends\":1}],\"lastFetchTimeMS\":1736107310848}"
+		"playnextstore_storage"		"{\"nVersion\":3,\"cachedPlayNext\":{\"last_update_time\":1736807769,\"appids\":[]},\"rgIgnoredApps\":[]}"
+		"trendingstore_storage"		"{\"version\":2,\"data\":[{\"appid\":730,\"rgAccountIDs\":[425308485,316923242,175335489,1074169241,292891650,303435223,1215926338,1578535683],\"totalFriends\":19},{\"appid\":55230,\"rgAccountIDs\":[292891650],\"totalFriends\":1},{\"appid\":307780,\"rgAccountIDs\":[292891650],\"totalFriends\":1},{\"appid\":300380,\"rgAccountIDs\":[292891650],\"totalFriends\":1},{\"appid\":239140,\"rgAccountIDs\":[292891650],\"totalFriends\":1},{\"appid\":227260,\"rgAccountIDs\":[292891650],\"totalFriends\":1},{\"appid\":2669320,\"rgAccountIDs\":[303435223],\"totalFriends\":1}],\"lastFetchTimeMS\":1736807768256}"
 		"CTextFilterStore_strBannedPattern"		"KDEpXGIo77u/KGFwZXxiYXR8YnVsbD98YnV0dHxkaXB8ZG9nfGR1bWJ8ZWJvfGhvbHl8aG9yc2V8amFja3xwZWRvfHBpZ3x1YmkpXFcqc2goaXR8dGkpcz98ZFtpbF0rKGNrfGtjKVxXKihhc3N8YmFnfGJyZWF0aHxlYXR8ZmFjZXxmbGlwfGhlYWR8aG9sZXxsZXNzfHN1Y2t8d2VlZClcdyp8ZltjaGpdPyhhfGF1fGF3fGV8byt8dXx1eSlbY2hdKmsoZT9kfGU/cnM/fFtlaV0/bitnP3x0KXxtW2FvdV0oZCt8dCt8dGh8aHR8eikoYXxlfGVyfGlyfHVyKShjfGYpYz9bYW91XWM/a1x3KnxtW291XXRoKGF8ZXIpKGZ8cGgpW3Z1ZV0rYz9bZ2txeF0rKGU/ZHxlP3J8W2VpXT9uK2c/KXxcdypmW3Z1XStoKmMrW2hqdmtdKihlP2R8ZT9yfFtlaV0/bitnP3x0KXxiK2krYSp0K2MraCsoZStkfGUqcj9bc3pdK3xbZWldP24rZz98eSl8XHcqZlt2dV0rYz9beGtxXSsoZT9kfGU/cnxbZWldP24rZz98dCl8cChvbyt8dSspcysoYSt5K3xlK3xlaHxleXxpK3xpZXx5KylzKnxtW291XXRoKGF8ZXIpKGZ8cGgpW3Z1ZV0rYz9bZ2txeF0rfFx3KmZbdnVdK2gqcShlP2R8ZT9yfFtlaV0/bitnP3x0KXxmW2Noal0/KGF8YXV8YXd8ZXxvK3x1fHV5KVtjaF0qa3xmW2NrXSsoZT9kfGU/cnxbZWldP24rZz98dCl8ZnXzoICh86CAoWNrafOggKHzoIChbmd8ZHVtYihmfHBoKVt2dV0rYz9beGtxXXxjKG9jP3xhdylrXFcqc3VjP2tcdyp8ZFtpbF0rKGNrfGtjKShlZHxpbmcpfHBoW3Z1XStoKmMrW2hqdmtdKlx3Knxzb25cVypvZlxXKmFcVypiaXRjaHzQtNC+0LvQsdC+0LXQsdC40LfQvHxcdyp3aG8rcmUoZWR8aW5nfHMpfGMob3xhaHxhdyljP2soc3xlZCl8cytoK1tpbHldK3QrW2Vyc3ldKnxhK3NzK1xXKnc/aG9sZT9cdyp8cGhbdnVdK2M/W3hrcV0rXHcqfNCz0L7QstC90L7QtdC00L7QsnzQtNC+0LvQsdCw0LXQsdC+0LJ80LXQsdC70LDQvdGB0LrQsNGPfNC10LHQu9Cw0L3RgdC60LjQuXzQt9Cw0LXQsdGR0YjRjNGB0Y980LfQsNGF0YPRj9GH0LjQu9C4fNC/0LjQtNCw0YDQsNGB0L7QsnzQv9C40LTQsNGA0YHQutC40Ll80YHRitC10LHQsNGC0YzRgdGPfNGD0LXQsdCw0L3RgdC60LjQuXzRg9C10LHQuNGJ0YzQvdC+0LV8Zlt2dV0rYz9beGtxXStcdyp8YnVsbCtzaCtbaWx5XSt0K3xnb2RcVypkYW1uP1xXKml0fNCw0YXRg9C10L3QvdCw0Y980LDRhdGD0LXQvdC90YPRjnzQsNGF0YPQtdC90L3Ri9C5fNCy0YvQtdCx0LDQvdC+0LV80LXQsdCw0L3QvdC+0LzRg3zQtdCx0LDQvdGD0YLRi9C1fNC10LHQu9Cw0L3QsNC80Lh80L/QuNC00LDRgNCw0YHRi3zRg9GR0LHQuNGJ0L3QsNGPfNGD0ZHQsdC40YnQvdGL0Ll8Z29kXFcqZGFtbj9cdyp80LLRitC10LHQsNC70Lh80LLRitC10LHQsNGC0Yx80LXQsdCw0L3QvdCw0Y980LXQsdCw0L3QvdC+0LV80LXQsdCw0L3QvdGL0YV80LXQsdCw0L3QvtCz0L580LXQsdCw0L3RjNC60Lh80LXQsdC+0L3QvdC+0LV80LfQsNC10LHQsNC70LB80LfQsNC10LHQsNC70L580L/QvtC10LHQtdC90Yx80YXRg9GR0LLQvtCz0L58YStzcytcVypmdVx3KnxjKG98YWh8YXcpYz9rfGRbaWxdKyhja3xrYyl8YitpK2EqdCtjK2grfGJ1dHRcVypmdVx3KnxjdW1tKGVyfGluZyl8Zlt2dV0raCpjXHcqfGZbdnVdK2gqcVx3KnxzaCtpK1thZV0rdCt80LDRhdGD0LXQu9C4fNC10LHQsNC90LDRj3zQtdCx0LDQvdC+0LV80LXQsdCw0L3QvtC5fNC10LHQsNC90YPRjnzQtdCx0LDQvdGL0LV80LXQsdCw0L3Ri9C5fNC10LHQsNC90YvQvHzQtdCx0LDQvdGL0YV80LXQsdGD0YfQuNC5fNC/0LjQt9C00LXQtnzQv9C40LfQtNC10YZ80YHRgNCw0L3QsNGPfNGD0ZHQsdC40YnQsHzRg9GR0LHQuNGJ0LV80YXRg9C10YHQvtGBfNGF0YPQtdGC0L7QuXzRhdGD0LnQvdGR0Ll80YXRg9GR0LLQsNGPfNGF0YPRkdCy0YvQuXzkvaDlpojmrbvkuoZ85aaI55qE5Liq6YC8fOaIkeaYr+WCu+mAvHxjK3Urbit0K1x3KnxkK2krYytrK3MqfGZ14oCOY2tpbmd80LHQu9GP0LTRjHzQsdC70Y/RgtGMfNC00L7RhdGD0Y980LTRgNC+0YfQuHzQtdCx0LDQu9C+fNC10LHQsNGC0Yx80L000LXQsTTQu3zQvdCw0YXRg9C5fNC90LDRhdGD0Y980L3QtdGF0YPQuXzQvdC40YXRg9GPfNC/0LjQt9C00LV80L/QuNC30LTRg3zQv9C+0YXRg9C5fNGD0LXQsdGR0YJ80YXRg9C10YLQsHzRhdGD0LXRgtGDfNGF0YPQudC90Lh80YXRg9C50L3RjnzRhdGD0LnQvdGPfNGI0LvRjtGF0Lh80ZHQsdCw0L3Ri3xhK3Nob2xlcz98c2grZStpK3QrfOaTjeS9oOWmiHzmk43kvaDlprl86IKP5L2g5aaIfNCw0YXRg9C1fNC10LHQsNC7fNC10LHRg9GCfNGB0YPQutCwfNGF0YPRj9C8fNGI0LvRjtGFfEZcLlVcLkNcLkt8Y2hvZGVzP3xjdW1zaG90fGZ1Y2tpbmd8ZnXigI5ja3xzaGl0XHcqfHNodHBvc3R8d2hvK3JlP3xjdW1iYWd8amViYW5lfHR3YXRzP3zQsdC70Y980LXQsdGDfNGF0YPQuHzRhdGD0Ll80YXRg9GPfOWCu+WxhHzlgrvpgLx85pON5q27fOiHremAvHxjdW1zP3xkYWZ1cXxkadGBa3xzaCBpdHxjb3ErfGhvcmV8a29ja3xubXNsfHNoYXR8ZGlrfGZja3xreXN8XHcqZit1K2Mraytcdyp8XHcqZtGG0YHQulx3KnxcdypzaNGWdHR5XHcqfFx3KmZfdWNfa1x3KnxcdypwdXNzeVx3Knzvu79uKyhbZWhpeV0rfGF5fGV5fGlvfFtpbF0rKVtiZ3EkXStoPyhhK3xhZXJ8YStoK3xhK3IrfGUrfGVhfGVvYXxlK3IrfGllfGllcnxsZXR8bGl0fG98b3J8cit8dXx1aHx1aHJ8dStyK3x3YXJkfHkrKXMqfGZbYWVdeT9nK1tvZWl1XSt0K3M/fNC00LDRg9C90YHQutCw0Y980L/QuNC00L7RgNCw0YHRi3xjaGluZ1xXKmNob25ncz98bvOggKHzoIChaWdnZXJzfHJlK3QrYT9yW2R0XStzP3x0b3dlbFxXKmhlYWRzP3zQvNC+0YHQutCw0LvRjHzQv9C40LTQvtGA0LrQsHxwYWM/ayhpfGllfHkpfHRpbmdcVyp0b25ncz98dHJhbm4oaWV8eSlzP3x3aGl0ZVxXKnRyYXNofG5pOmdnXHcqOlx3KnxjaGluKGN8aylzP3xrYWx0YWtsYXJsYXxrYWx0YWtsYXJsYXxuK2krW2dxXStzP3x5YW1cVyp5YW1zP3xcdypuaWdnYXM/fGNoaW5hbWFucz98cG9sYWNrZT9zP3x0cmFubnljb3JlfNC60LDRhtCw0L980YDRg9GB0L3Rj3zRhdC+0YXQu9GLfNGF0L7RhdC+0Lt8bmVla2VyaXM/fG5pZ2ZoZXJzP3xyZWRza2lucz98YmVhbmVycz98Y29vbGllcz98Y3phcm51Y2h8ZithK2crcyp8ZmVuaWFucz98Z3Jpbmdvcz98bmV3ZmFncz98bmkgZ2cgZXJ8bmlnZ2Fcdyp8bmlnZ2xlcz98bmlnbm9ncz98cnVzK2tpcz98d2lnZ2Vycz98z5xhZ2fQvnR8Z3lwc2llc3xpbmp1bnM/fGppZ2dhcz98bmlra2FzP3x3aWdnYXM/fNC4aWdnZXJ8XHcqZmFnfGJlYW5lcnxjb29ucz98ZHlrZXM/fGZhNjZvdHxmYWd0cz98Z29va3M/fGd5cG9zP3xob21vcz98a2lrZXM/fGtva2hvbHxtb3NrYWx8cmVnZ2lufHNwaWNzP3x5d25iYXd86buR6ay8fGFib3M/fGZndHM/fGbQsGdzfGd5cHN5fGphcHM/fHRyb29ufHdvcHM/fGZhZ3p8ZtCwZ3xmQGd8XHcqTvOggKHzoIChSUdHRfOggKHzoIChUlx3KnxcdyrRgdCy0LjQvdC+0YHQvtCx0LDQulx3KnxcdyrJtMmqyaLJouG0h8qAXHcqfFx3Km7Rlmdn0LVyXHcqfFx3Kk7DjUdHRVJcdyp8XHcqblxcXHxnZ2VyXHcqfFx3Km5pZ2fQtXJcdyp8XHcqRjRHRzBUXHcqfFx3Kk4xR0czUlx3KnxcdypuaWdnZXJcdyp8XHcqdHJhbm55XHcqfFx3Km5pZ2c0XHcqfFx3Km5pZ2d6XHcqKVxi"
 		"CTextFilterStore_strCleanPattern"		"KDEpXihcYihmYWsoZWR8ZXJzP3xpbmcpfGtvbXBldGVuenRlYW185rS+6YCB5ZGYfHBpbmVncm92ZXxuXC5lXC5pZ1wuZVwufGZ1a3VzaGltYXxzbmlnZ2VyfG5pZSBnZWV8ZnVrdW9rYXxmdWNoc2lhfGZ1Y2hpYW58Y29ja1wubGl8ZnV4aXVzfGZ1Y3Vyb3xuaWVnb3xuaWVib3xuZWlnZXxuZWdneXxuZWJieXxmdXhpc3xjd2ZhZ3xwdWJnfG5pYnl8bmVidXxuZWJvfGZ1a3V8ZnVraXxmYWt0fGcyNHxmY3J8XHcqZnZjaHZvXHcqKVxiKSQ="
 		"FriendGroupCollapse_1250839534"		"{\"groups\":{\"offline\":false,\"outgoing\":true}}"
@@ -3722,7 +3794,14 @@
 		"ChatStorePopupState_292891650"		"{\"window_restore_details\":\"1&x=600&y=205&w=740&h=650\",\"bFriendsListVisible\":false,\"always_restore\":false,\"bFriendsListCollapsed\":false}"
 		"GetEquippedProfileItemsForUser76561198253157378"		"{\"profile_background\":{\"communityitemid\":\"32507676475\",\"image_large\":\"items/2181610/a130b88709ebf915ab291f12d81697973e000292.jpg\",\"name\":\"Circle of Hell\",\"item_title\":\"Circle of Hell\",\"item_description\":\"\",\"appid\":2181610,\"item_type\":36,\"item_class\":3,\"movie_webm\":\"items/2181610/47cc5c2dc17508aa503683de5f3648b63e8b56dc.webm\",\"movie_mp4\":\"items/2181610/41a082d421170d8080aa9b03435fc6435cde7fda.mp4\",\"movie_webm_small\":\"items/2181610/25272f856fd88505195389f4da601e61e9598d28.webm\",\"movie_mp4_small\":\"items/2181610/ecb042e738c48c684000ee38a11a3ba0f29f4598.mp4\",\"profile_colors\":[]},\"mini_profile_background\":{\"communityitemid\":\"17083759185\",\"image_large\":\"items/1098340/d53102e2dde3f5b7d419c2a52e63ed51d3d4a38b.jpg\",\"name\":\"UNIVERSE\",\"item_title\":\"UNIVERSE\",\"item_description\":\"\",\"appid\":1098340,\"item_type\":34,\"item_class\":13,\"movie_webm\":\"items/1098340/b0773e1a9f8fbf35fce4e6e5bb3d337ad88adca5.webm\",\"movie_mp4\":\"items/1098340/c5033fa46767025ffeed805d2bafb949555cb69a.mp4\",\"profile_colors\":[]},\"avatar_frame\":{\"communityitemid\":\"32507676367\",\"image_small\":\"items/1239300/083c19cc935001ee0508aff3b948da62b6a093f6.png\",\"image_large\":\"items/1239300/a9ca31fe951b5ae5d265f5ba97539aced1286cfa.png\",\"name\":\"Damned\",\"item_title\":\"Damned\",\"item_description\":\"\",\"appid\":1239300,\"item_type\":24,\"item_class\":14,\"profile_colors\":[]},\"animated_avatar\":{\"profile_colors\":[]},\"profile_modifier\":{\"profile_colors\":[]},\"steam_deck_keyboard_skin\":{\"profile_colors\":[]}}"
 		"UIDisplayPrefs_292891650"		"{\"nChatRoomListHeightPx\":224,\"bChatRoomListCollapsed\":true,\"bDontShowVoiceAlert\":false,\"nFriendsListSingleWindowWidthPx\":300,\"bFavoritesHintDismissed\":false,\"bRemotePlayLinkHintDismissed\":false,\"nChangeLogDismissed\":0}"
-		"OverlaySavedDataV2_730_windows"		"{\"version\":2,\"data\":[[\"GameOverview\",0],[\"FriendsList\",0]]}"
+		"OverlaySavedDataV2_730_windows"		"{\"version\":2,\"data\":[[\"Browser\",0]]}"
+		"SteamVoiceSettings_1211451944"		"{\"inputGain\":1,\"outputGain\":1,\"noiseGateLevel\":2,\"noiseCancellation\":true,\"echoCancellation\":true,\"autoGainControl\":true,\"selectedMic\":\"default\",\"selectedOutput\":\"default\",\"pttSoundsEnabled\":true,\"hasResetOpenMicHotKey\":true,\"useSteamAudioSpatialization\":false}"
+		"CTextFilterStore_TextFilterPreferences_1211451944"		"{\"eTextFilterSetting\":1,\"bIgnoreFriends\":1}"
+		"CTextFilterStore_TextFilterWords_1211451944"		"KDEpeyJ0ZXh0X2ZpbHRlcl9jdXN0b21fYmFubmVkX3dvcmRzIjpbXSwidGV4dF9maWx0ZXJfY3VzdG9tX2NsZWFuX3dvcmRzIjpbXX0="
+		"CTextFilterStore_strBannedPattern_1211451944"		"KDEpXGIo77u/ZFtpbF0rKGNrfGtjKVxXKihhc3N8YmFnfGJyZWF0aHxlYXR8ZmFjZXxmbGlwfGhlYWR8aG9sZXxsZXNzfHN1Y2t8d2VlZClcdyp8ZltjaGpdPyhhfGF1fGF3fGV8byt8dXx1eSlbY2hdKmsoZT9kfGU/cnM/fFtlaV0/bitnP3x0KXxtW2FvdV0oZCt8dCt8dGh8aHR8eikoYXxlfGVyfGlyfHVyKShjfGYpYz9bYW91XWM/a1x3KnxtW291XXRoKGF8ZXIpKGZ8cGgpW3Z1ZV0rYz9bZ2txeF0rKGU/ZHxlP3J8W2VpXT9uK2c/KXxcdypmW3Z1XStoKmMrW2hqdmtdKihlP2R8ZT9yfFtlaV0/bitnP3x0KXxcdypmW3Z1XStjP1t4a3FdKyhlP2R8ZT9yfFtlaV0/bitnP3x0KXxwKG9vK3x1KylzKyhhK3krfGUrfGVofGV5fGkrfGllfHkrKXMqfG1bb3VddGgoYXxlcikoZnxwaClbdnVlXStjP1tna3F4XSt8XHcqZlt2dV0raCpxKGU/ZHxlP3J8W2VpXT9uK2c/fHQpfGZbY2hqXT8oYXxhdXxhd3xlfG8rfHV8dXkpW2NoXSprfGZbY2tdKyhlP2R8ZT9yfFtlaV0/bitnP3x0KXxmdfOggKHzoIChY2tp86CAofOggKFuZ3xkdW1iKGZ8cGgpW3Z1XStjP1t4a3FdfGMob2M/fGF3KWtcVypzdWM/a1x3KnxkW2lsXSsoY2t8a2MpKGVkfGluZyl8cGhbdnVdK2gqYytbaGp2a10qXHcqfNC00L7Qu9Cx0L7QtdCx0LjQt9C8fGMob3xhaHxhdyljP2soc3xlZCl8YStzcytcVyp3P2hvbGU/XHcqfHBoW3Z1XStjP1t4a3FdK1x3KnzQs9C+0LLQvdC+0LXQtNC+0LJ80LTQvtC70LHQsNC10LHQvtCyfNC10LHQu9Cw0L3RgdC60LDRj3zQtdCx0LvQsNC90YHQutC40Ll80LfQsNC10LHRkdGI0YzRgdGPfNC30LDRhdGD0Y/Rh9C40LvQuHzQv9C40LTQsNGA0LDRgdC+0LJ80L/QuNC00LDRgNGB0LrQuNC5fNGB0YrQtdCx0LDRgtGM0YHRj3zRg9C10LHQsNC90YHQutC40Ll80YPQtdCx0LjRidGM0L3QvtC1fGZbdnVdK2M/W3hrcV0rXHcqfNCw0YXRg9C10L3QvdCw0Y980LDRhdGD0LXQvdC90YPRjnzQsNGF0YPQtdC90L3Ri9C5fNCy0YvQtdCx0LDQvdC+0LV80LXQsdCw0L3QvdC+0LzRg3zQtdCx0LDQvdGD0YLRi9C1fNC10LHQu9Cw0L3QsNC80Lh80L/QuNC00LDRgNCw0YHRi3zRg9GR0LHQuNGJ0L3QsNGPfNGD0ZHQsdC40YnQvdGL0Ll80LLRitC10LHQsNC70Lh80LLRitC10LHQsNGC0Yx80LXQsdCw0L3QvdCw0Y980LXQsdCw0L3QvdC+0LV80LXQsdCw0L3QvdGL0YV80LXQsdCw0L3QvtCz0L580LXQsdCw0L3RjNC60Lh80LXQsdC+0L3QvdC+0LV80LfQsNC10LHQsNC70LB80LfQsNC10LHQsNC70L580L/QvtC10LHQtdC90Yx80YXRg9GR0LLQvtCz0L58YStzcytcVypmdVx3KnxjKG98YWh8YXcpYz9rfGJ1dHRcVypmdVx3KnxjdW1tKGVyfGluZyl8Zlt2dV0raCpjXHcqfGZbdnVdK2gqcVx3KnzQsNGF0YPQtdC70Lh80LXQsdCw0L3QsNGPfNC10LHQsNC90L7QtXzQtdCx0LDQvdC+0Ll80LXQsdCw0L3Rg9GOfNC10LHQsNC90YvQtXzQtdCx0LDQvdGL0Ll80LXQsdCw0L3Ri9C8fNC10LHQsNC90YvRhXzQtdCx0YPRh9C40Ll80L/QuNC30LTQtdC2fNC/0LjQt9C00LXRhnzRgdGA0LDQvdCw0Y980YPRkdCx0LjRidCwfNGD0ZHQsdC40YnQtXzRhdGD0LXRgdC+0YF80YXRg9C10YLQvtC5fNGF0YPQudC90ZHQuXzRhdGD0ZHQstCw0Y980YXRg9GR0LLRi9C5fOS9oOWmiOatu+S6hnzlpojnmoTkuKrpgLx85oiR5Y675L2g55qEfOaIkeaYr+WCu+mAvHxjK3Urbit0K1x3KnxmdeKAjmNraW5nfNCx0LvRj9C00Yx80LHQu9GP0YLRjHzQtNC+0YXRg9GPfNC00YDQvtGH0Lh80LXQsdCw0LvQvnzQtdCx0LDRgtGMfNC9NNC10LE00Lt80L3QsNGF0YPQuXzQvdCw0YXRg9GPfNC90LXRhdGD0Ll80L3QuNGF0YPRj3zQv9C40LfQtNC1fNC/0LjQt9C00YN80L/QvtGF0YPQuXzRg9C10LHRkdGCfNGF0YPQtdGC0LB80YXRg9C10YLRg3zRhdGD0LnQvdC4fNGF0YPQudC90Y580YXRg9C50L3Rj3zRiNC70Y7RhdC4fNGR0LHQsNC90Yt85pON5L2g5aaIfOaTjeS9oOWmuXzogo/kvaDlpoh8ZmFnZ290cnl80LDRhdGD0LV80LXQsdCw0Lt80LXQsdGD0YJ80YHRg9C60LB80YXRg9GP0Lx80YjQu9GO0YV8RlwuVVwuQ1wuS3xjdW1zaG90fGZ1Y2tpbmd8ZnXigI5ja3xjdW1iYWd8amViYW5lfHR3YXRzP3zQsdC70Y980LXQsdGDfNGF0YPQuHzRhdGD0Ll80YXRg9GPfOWCu+WxhHzlgrvpgLx85pON5q27fOiHremAvHxjdW1zP3xkYWZ1cXxjb3ErfG5tc2x8ZmNrfGt5c3xcdypmK3UrYytrK1x3Knxcdypm0YbRgdC6XHcqfFx3KnNo0ZZ0dHlcdyp8XHcqZl91Y19rXHcqfFx3KnB1c3N5XHcqfO+7v24rKFtlaGl5XSt8YXl8ZXl8aW98W2lsXSspW2JncSRdK2g/KGErfGFlcnxhK2grfGErcit8ZSt8ZWF8ZW9hfGUrcit8aWV8aWVyfGxldHxsaXR8b3xvcnxyK3x1fHVofHVocnx1K3IrfHdhcmR8eSspcyp8ZlthZV15P2crW29laXVdK3Qrcz980LTQsNGD0L3RgdC60LDRj3zQv9C40LTQvtGA0LDRgdGLfGNoaW5nXFcqY2hvbmdzP3xu86CAofOggKFpZ2dlcnN8cmUrdCthP3JbZHRdK3M/fHRvd2VsXFcqaGVhZHM/fNC80L7RgdC60LDQu9GMfNC/0LjQtNC+0YDQutCwfHBhYz9rKGl8aWV8eSl8dGluZ1xXKnRvbmdzP3x0cmFubihpZXx5KXM/fHdoaXRlXFcqdHJhc2h8bmk6Z2dcdyo6XHcqfGNoaW4oY3xrKXM/fGthbHRha2xhcmxhfGthbHRha2xhcmxhfG4raStbZ3FdK3M/fHlhbVxXKnlhbXM/fFx3Km5pZ2dhcz98Y2hpbmFtYW5zP3xwb2xhY2tlP3M/fHRyYW5ueWNvcmV80LrQsNGG0LDQv3zRgNGD0YHQvdGPfNGF0L7RhdC70Yt80YXQvtGF0L7Qu3xuZWVrZXJpcz98bmlnZmhlcnM/fHJlZHNraW5zP3xiZWFuZXJzP3xjb29saWVzP3xjemFybnVjaHxmK2ErZytzKnxmZW5pYW5zP3xncmluZ29zP3xuZXdmYWdzP3xuaSBnZyBlcnxuaWdnYVx3KnxuaWdnbGVzP3xuaWdub2dzP3xydXMra2lzP3x3aWdnZXJzP3zPnGFnZ9C+dHxneXBzaWVzfGluanVucz98amlnZ2FzP3xuaWtrYXM/fHdpZ2dhcz980LhpZ2dlcnxcdypmYWd8YmVhbmVyfGNvb25zP3xkeWtlcz98ZmE2Nm90fGZhZ3RzP3xnb29rcz98Z3lwb3M/fGhvbW9zP3xraWtlcz98a29raG9sfG1vc2thbHxyZWdnaW58c3BpY3M/fHRyYW5ueXx5d25iYXd86buR6ay8fGFib3M/fGZndHM/fGbQsGdzfGd5cHN5fGphcHM/fHRyb29ufHdvcHM/fGZhZ3p8ZtCwZ3xmQGd8XHcqTvOggKHzoIChSUdHRfOggKHzoIChUlx3KnxcdyrRgdCy0LjQvdC+0YHQvtCx0LDQulx3KnxcdyrJtMmqyaLJouG0h8qAXHcqfFx3Km7Rlmdn0LVyXHcqfFx3Kk7DjUdHRVJcdyp8XHcqblxcXHxnZ2VyXHcqfFx3Km5pZ2fQtXJcdyp8XHcqRjRHRzBUXHcqfFx3Kk4xR0czUlx3KnxcdypuaWdnZXJcdyp8XHcqbmlnZzRcdyp8XHcqbmlnZ3pcdyopXGI="
+		"CTextFilterStore_strCleanPattern_1211451944"		"KDEpXihcYihmYWsoZWR8ZXJzP3xpbmcpfGtvbXBldGVuenRlYW185rS+6YCB5ZGYfHBpbmVncm92ZXxuXC5lXC5pZ1wuZVwufGZ1a3VzaGltYXxzbmlnZ2VyfG5pZSBnZWV8ZnVrdW9rYXxmdWNoc2lhfGZ1Y2hpYW58Y29ja1wubGl8cGh1a2V0fGZ1eGl1c3xmdWN1cm98bmllZ298bmllYm98bmVpZ2V8bmVnZ3l8bmViYnl8ZnV4aXN8Y3dmYWd8cHViZ3xuaWJ5fG5lYnV8bmVib3xmdWt1fGZ1a2l8ZmFrdHxnMjR8ZmNyfFx3KmZ2Y2h2b1x3KilcYikk"
+		"ChatStorePopupState_1211451944"		"{\"bFriendsListVisible\":false,\"always_restore\":false,\"bFriendsListCollapsed\":false}"
+		"OverlaySavedDataV2_730_webrequests"		"{\"version\":1,\"data\":{\"activeWebPageRequestID\":0,\"rgRequests\":[]}}"
 	}
 	"system"
 	{
@@ -3735,7 +3814,7 @@
 		"EnableGameOverlay"		"1"
 		"GameOverlayHomePage"		"https://steamcommunity.com/market"
 	}
-	"AppInfoChangeNumber"		"26870134"
+	"AppInfoChangeNumber"		"26979791"
 	"CloudKey"		"010000008fbb5e39a37d23e04db1224f34958a77af48369d9dcad132cbc1191e372d060573e18a8b"
 	"CloudKeyCRC"		"-627012995"
 	"news"
@@ -3751,10 +3830,10 @@
 	"SteamController_PSSupport"		"0"
 	"CSettingsPanelGameController.Timeout"		"9999"
 	"Controller_CheckGuideButton"		"0"
-	"RecentLocalPlayedGameIDs"		"da0200000000000078ed7a670000a2cc"
+	"RecentLocalPlayedGameIDs"		"da02000000000000909585670000a2cc"
 	"nettickets"
 	{
-		"730"		"010000004b7eb9c3b13dd239b422da55ad1f1c4e854d63584a1d09c4f696ddfdbdb66dac3f3932c86d9c7ac0d4e13f0deb459d79aa632effa03ca6fe0b390b4664c439f61cdd660bf33fda8400b848e9235684d281fc5edff463401e1c0a42f3651eb63ec786ae1d8ef8b457d09a1f5208928b12f7c0e8746c2aeb31945b73637ab2e421f65a5365f79f755e727a900697ed5603079034922e5b69e6f5038ed01939a1a50c1eb6373cb91bbbd595124989976a762deed555db85d7aaae1f849fc90646026b62b95736bbd8814fbfd801e7b340df7c18d950d8b149a21cbb763a0f03e21bf7b451edd1661f828d4af116eef3f5ca73051e6537f8a19d52e7f5b22ff7ba5d7cac65261ae58992115d07f0e888066705de8378db2f2b46cbcc37e0e964cc3d3cc6c2d9c98f93db123dfd15de36a078fd8f89ce7f47894f7db5847f0f1c0f4fc4718fb34859311231add273b9b4ac692acd5a9e28438c4cbdf1b26a12fffbfeecf2802a77b533444dad01c85dbc6c82e9c2ca401e15ce4955d9981f93552672ae64756d67dd8c81f65ea8f4f16021ab04aaf8def23116e2b4656538268c14d7b9e2bcaaf467918c557130a1e2cc9678049118b3031dd50d47232544470ea56cbdfa26c549ed75a57650f5af3b80ed2d9b90088903ac563e82"
+		"730"		"01000000dcf4126a9e501aee5c7e373dc1b200ff798bbf53e3cc84779189b647ef017693c327f440ca588be1dba58f3bcdd7d104da68b2135a037fe62b5d02a40ef8d6d3fb26669364b51221e22242dfcf6fcfb629e64fc449d658abab30de82e9619349ed5a298ec4cd2feca6002e0786026f488ab150ce3a1cd584dc40d189a8acc51d34aaf87302ed1386bcf058a375775c56e76488340449d0ac86f029c0558c09ac9986f160af901908766112eb7952b123891871062a3b0c49ead6331fb0a6e4a6536bf238799e7377f81bef3b2fc14656c7368f4bf60dd999db1c581b8b74560ffba9aa7443e01bf60cef7a1a952183265749060f192237"
 	}
 	"UserAppConfig"
 	{
@@ -3791,6 +3870,13 @@
 				"registration_complete"		"1"
 			}
 		}
+		"46d-c21d-48354a28_12345678"
+		{
+			"1211451944"
+			{
+				"registration_complete"		"1"
+			}
+		}
 	}
 	"FamilyGroup"
 	{
@@ -3805,12 +3891,12 @@
 	{
 		"BackgroundRecordMode"		"0"
 	}
+	"ShowCopyCountInLibrary"		"0"
 	"controller_config"
 	{
 		"730"
 		{
-			"usetime"		"230.064697265625"
+			"usetime"		"4.33543968200683594"
 		}
 	}
-	"ShowCopyCountInLibrary"		"0"
 }
