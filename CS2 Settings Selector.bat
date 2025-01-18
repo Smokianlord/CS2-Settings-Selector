@@ -14,8 +14,16 @@ echo ==========================================
 :: Prompt for user input
 set /p choice=Enter your choice (1/2/3/4/5): 
 
-:: Define base folder
-set "baseFolder=%~dp0..\CS2-Settings-Selector"
+:: Locate the "option folders" directory
+for /d %%d in ("%~dp0..\*") do (
+    if exist "%%d\SET MAIN" (
+        set "baseFolder=%%d"
+        goto foundBaseFolder
+    )
+)
+exit /b
+
+:foundBaseFolder
 
 :: Determine the selected folder based on the user's choice
 if %choice%==1 (
