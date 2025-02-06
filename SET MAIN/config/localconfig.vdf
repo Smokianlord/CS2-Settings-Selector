@@ -29,7 +29,7 @@
 						{
 							"last_sync_state"		"conflictingchanges"
 						}
-						"LaunchOptions"		"-novid -nojoy -high -refresh 165 +fps_max 0 -forcenovsync -softparticlesdefaultoff +mat_disable_fancy_blending 1 +r_dynamic 0"
+						"LaunchOptions"		"-novid -nojoy -high -refresh 165 +fps_max 0 -forcenovsync -softparticlesdefaultoff +mat_disable_fancy_blending 1 +r_dynamic 0 -console"
 						"autocloud"
 						{
 							"lastlaunch"		"1738813172"
