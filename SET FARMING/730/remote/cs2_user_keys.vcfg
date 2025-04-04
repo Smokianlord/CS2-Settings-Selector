@@ -11,6 +11,6 @@
 		"c"		"slot10"
 		"h"		"clutch_mode_toggle"
 		"o"		"callvote changelevel ar_pool_day"
-		"p"		"+left"
+		"p"		"disconnect"
 	}
 }
