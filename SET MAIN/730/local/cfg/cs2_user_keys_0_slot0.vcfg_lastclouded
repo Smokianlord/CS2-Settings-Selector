@@ -17,5 +17,7 @@
 		"KP_4"		"say ( ͡⚆ ͜ʖ ͡⚆) ∩"
 		"KP_5"		"say  Good Luck & Have Fun!; bind KP_6  say_team drop me a weapon "
 		"KP_6"		"say_team drop me a weapon"
+		"o"		"callvote changelevel ar_pool_day"
+		"p"		"disconnect"
 	}
 }
