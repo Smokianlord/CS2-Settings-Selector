@@ -19,5 +19,9 @@
 		"KP_6"		"say_team drop me a weapon"
 		"o"		"callvote changelevel ar_pool_day"
 		"p"		"disconnect"
+		"i"		"quit"
+		"["		"jointeam 2"
+		"]"		"jointeam 3"
+		"\"		"jointeam 1"
 	}
 }
