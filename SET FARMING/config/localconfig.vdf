@@ -29,7 +29,7 @@
 						{
 							"last_sync_state"		"conflictingchanges"
 						}
-						"LaunchOptions"		"-window -w 640 -h 510 +fps_max 30 -nosound -nojoy +r_drawparticles 0 +mat_disable_fancy_blending 1 -nohltv -forcenovsync +violence_hblood 0 +violence_hgibs 0 +violence_agibs 0 +r_dynamic 0 -novid +exec autoexec -softparticlesdefaultoff +mat_queue_mode 2 +r_eyegloss 0 -noaafonts +mat_disable_bloom 1 +mat_mipmaptextures 0 +mat_compressedtextures 1 -d3d9ex"
+						"LaunchOptions"		"-window -w 640 -h 510 +fps_max 30 -nosound -nojoy -nohltv -novid +exec autoexec"
 						"autocloud"
 						{
 							"lastlaunch"		"1746753237"
