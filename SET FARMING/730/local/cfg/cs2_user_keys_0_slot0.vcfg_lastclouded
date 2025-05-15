@@ -12,5 +12,9 @@
 		"h"		"clutch_mode_toggle"
 		"o"		"callvote changelevel ar_pool_day"
 		"p"		"disconnect"
+		"i"		"quit"
+		"["		"jointeam 2"
+		"]"		"jointeam 3"
+		"\"		"jointeam 1"
 	}
 }
